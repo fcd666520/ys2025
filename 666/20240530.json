@@ -1,5 +1,4 @@
     {"spider":"https://gitlab.com/fcd666520/TVBox_warehouse/-/raw/main/spider.jar",
-
     "warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
     "sites":[
     {
@@ -49,7 +48,7 @@
     {
     "key":"玩偶影视",
     "name":"┃星标┃玩偶┃",
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/spider.jar",
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/spider.jar",
     "type":3,
     "api":"csp_XYQHikerAL",
     "searchable":1,
@@ -67,21 +66,21 @@
     "filterable":0,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","share":""},
     "style":{"type":"list"},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;664ae622641247e6fe7bf1b9f2767fdc"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar;md5;664ae622641247e6fe7bf1b9f2767fdc"
     },
-       {
-            "key": "天天弹幕",
-            "name": "┃天天┃弹幕┃",
-            "type": 3,
-            "api": "csp_TianTian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
-        },
+    {
+    "key":"天天弹幕",
+    "name":"┃天天┃弹幕┃",
+    "type":3,
+    "api":"csp_TianTian",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+    "danmu":true
+    },
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
+    },
     {
     "key":"酷看弹幕",
     "name":"┃酷看┃弹幕┃",
@@ -91,38 +90,37 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{"danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
-        {
-      "key": "玩偶",
-      "name": "┃玩偶┃弹幕┃",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      }
+    {
+    "key":"玩偶",
+    "name":"┃玩偶┃弹幕┃",
+    "type":3,
+    "api":"csp_WoGG",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0,
+    "ext":{
+    "Cloud-drive":"tvfan/Cloud-drive.txt",
+    "from":"4k|auto",
+    "siteUrl":"https://www.wogg.net/",
+    "danMu":"弹"
+    }
     },
-            {
-            "key": "荐片弹幕",
-            "name": "┃弹幕┃荐片┃",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-                "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
-
-        },
+    {
+    "key":"荐片弹幕",
+    "name":"┃弹幕┃荐片┃",
+    "type":3,
+    "api":"csp_Jianpian",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+    "danmu":true
+    },
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
+    },
     {
     "key":"厂长弹幕",
     "name":"┃厂长┃弹幕┃",
@@ -133,7 +131,7 @@
     "filterable":1,
     "ext":{"danmu":true},
     "timeout":25,
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"南瓜弹幕",
@@ -144,7 +142,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{"danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"叁六零弹幕",
@@ -155,39 +153,38 @@
     "filterable":1,
     "changeable":1,
     "ext":{"danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
-                {
-            "key": "荐片",
-            "name": "┃荐片┃磁力┃",
-            "type": 3,
-            "api": "csp_JianPian",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://api2.rinhome.com"
-        },
+    {
+    "key":"荐片",
+    "name":"┃荐片┃磁力┃",
+    "type":3,
+    "api":"csp_JianPian",
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://api2.rinhome.com"
+    },
     {
     "key":"酷看影视",
     "name":"┃酷看┃影视┃",
     "type":3,
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar",
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/spider.jar",
     "api":"csp_Wexkukantv",
     "searchable":1,
     "changeable":1
     },
-            {
-            "key": "可可影视",
-            "name": "┃可可┃影视┃",
-            "type": 3,
-                "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar",
-
-            "api": "csp_Keke",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+    {
+    "key":"可可影视",
+    "name":"┃可可┃影视┃",
+    "type":3,
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/spider.jar",
+    "api":"csp_Keke",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
     {
     "key":"Czsapp",
     "name":"┃厂长┃直连┃",
@@ -207,39 +204,39 @@
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/看韩剧.js"
     },
     {
-        "key":"农民",
-        "name":"┃农民┃影视┃",
-        "type":3,
-        "api":"csp_XBPQ",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1,
-        "ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"",
-            "分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
-            "分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"
-        }
+    "key":"农民",
+    "name":"┃农民┃影视┃",
+    "type":3,
+    "api":"csp_XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"",
+    "分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html",
+    "分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"
+    }
     },
-   {
-    "key": "Freeok",
-    "name": "┃ＦＲ┃影视┃",
+    {
+    "key":"Freeok",
+    "name":"┃ＦＲ┃影视┃",
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/Yoursmile.jar",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "playerType": "2",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": {
-    "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
-    "分类": "电影&剧集&动漫&综艺&短剧&少儿",
-    "分类值": "1&2&3&4&12&5",
-    "副标题": "<div class=\"module-item-note\">&&</div>",
-    "嗅探词": "m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
-    "线路数组": "data-dropdown-value=&&</div>[不包含:夸克]",
-    "导演": "导演：&&</div>",
-    "主演": "主演：&&</div>",
-    "简介": "<p>&&</p>"
-      }
+    "type":3,
+    "api":"csp_XBPQ",
+    "playerType":"2",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+    "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+    "分类":"电影&剧集&动漫&综艺&短剧&少儿",
+    "分类值":"1&2&3&4&12&5",
+    "副标题":"<divclass=\"module-item-note\">&&</div>",
+    "嗅探词":"m3u8#.m3u8#.mp4#freeok.mp4#/obj/",
+    "线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
+    "导演":"导演：&&</div>",
+    "主演":"主演：&&</div>",
+    "简介":"<p>&&</p>"
+    }
     },
     {
     "key":"drpy_js_达达龟",
@@ -468,13 +465,6 @@
     "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
     },
     {
-    "key":"drpy_js_喵次元",
-    "name":"┃喵次┃动漫┃",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/喵次元.js"
-    },
-    {
     "key":"drpy_js_58动漫",
     "name":"┃五八┃动漫┃",
     "type":3,
@@ -683,7 +673,7 @@
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"七夜弹幕",
@@ -706,7 +696,7 @@
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"云搜弹幕",
@@ -717,7 +707,7 @@
     "filterable":0,
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"盘搜弹幕",
@@ -729,7 +719,7 @@
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"易搜弹幕",
@@ -741,7 +731,7 @@
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "danmu":true,"cookie":"satoken=e43a2935-ea0e-464f-ba32-2267e97b9349"},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"云盘弹幕",
@@ -752,7 +742,7 @@
     "filterable":0,
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"小纸条弹幕",
@@ -763,7 +753,7 @@
     "filterable":1,
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"Gitcafe",
@@ -801,7 +791,7 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
     "danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"夸克开心弹幕",
@@ -814,7 +804,7 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
     "site":"http://www.ttkx.live","danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"夸克团长弹幕",
@@ -827,7 +817,7 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
     "danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"夸克盘搜弹幕",
@@ -838,7 +828,7 @@
     "changeable":1,
     "ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
     "danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"影视车弹幕",
@@ -850,7 +840,7 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
     "site":"https://www.weixine.net","danmu":true},
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"趣盘搜弹幕",
@@ -861,7 +851,7 @@
     "filterable":1,
     "changeable":1,
     "ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
-    "danmu":true},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024-220/main/danmu.jar"
+    "danmu":true},"jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"红牛资源",
@@ -1168,7 +1158,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar",
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/spider.jar",
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/yinfans.json"
     },
     {
@@ -1180,7 +1170,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar",
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/spider.jar",
     "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/bt0.json"
     },
     {
@@ -1191,7 +1181,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar",
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/spider.jar",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/量子资源网.json"
     },
     {
@@ -1203,7 +1193,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/spider.jar"
     },
     {
     "key":"哔嘀",
@@ -1215,8 +1205,8 @@
     "filterable":1,
     "playerType":"1"
     },
-    {"key":"夸克玩偶弹幕","name":"┃夸克┃玩偶┃","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"},
-    {"key":"夸克盘搜弹幕","name":"┃夸克┃盘搜┃","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"},
+    {"key":"夸克玩偶弹幕","name":"┃夸克┃玩偶┃","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"},
+    {"key":"夸克盘搜弹幕","name":"┃夸克┃盘搜┃","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"},
     {"key":"云盘搜索","name":"┃云盘┃搜索┃","jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/云盘/XYQHiker/云盘搜索.json"},
     {"key":"Upyunso","name":"┃云盘┃云搜┃","jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt"},
     {"key":"AliPS","name":"┃云盘┃盘搜┃","jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt"},
@@ -1226,19 +1216,19 @@
     {"key":"云盘论坛","name":"┃云盘┃论坛┃","jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/云盘/XYQHiker/云盘论坛.json"},
     {"key":"云盘资源","name":"┃云盘┃资源┃","jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/云盘/XYQHiker/云盘资源.json"},
     {"key":"云盘资源分享","name":"┃云盘┃分享┃","jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/云盘/XYQHiker/云盘资源分享.json"},
-    {"key":"搜索弹幕","name":"┃弹幕┃搜索┃","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","danmu":true},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"},
-    {"key":"Upys","name":"┃弹幕┃云云┃","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","danmu":true},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"},
-    {"key":"UpYun","name":"┃弹幕┃云搜┃","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","danmu":true},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"},
-    {"key":"盘搜弹幕","name":"┃弹幕┃盘搜┃","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","danmu":true},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"},
-    {"key":"易搜弹幕","name":"┃弹幕┃易搜┃","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","danmu":true},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"},
-    {"key":"云盘弹幕","name":"┃弹幕┃云盘┃","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","danmu":true},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar"},
+    {"key":"搜索弹幕","name":"┃弹幕┃搜索┃","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","danmu":true},"jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"},
+    {"key":"Upys","name":"┃弹幕┃云云┃","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","danmu":true},"jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"},
+    {"key":"UpYun","name":"┃弹幕┃云搜┃","type":3,"api":"csp_UpYun","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","danmu":true},"jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"},
+    {"key":"盘搜弹幕","name":"┃弹幕┃盘搜┃","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","danmu":true},"jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"},
+    {"key":"易搜弹幕","name":"┃弹幕┃易搜┃","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","danmu":true},"jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"},
+    {"key":"云盘弹幕","name":"┃弹幕┃云盘┃","type":3,"api":"csp_Yunpan4k","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","danmu":true},"jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"},
     {"key":"New6v","name":"┃磁力┃New6V┃","jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com"},
     {"key":"美剧迷","name":"┃磁力┃美剧迷┃","jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"迅雷吧","name":"┃磁力┃迅雷吧┃","jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Mp4电影","name":"┃磁力┃Mp4电影┃","jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"SeedHub","name":"┃磁力┃SeedHub┃","jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"SeedHub","name":"┃磁力┃SeedHub┃","jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/spider.jar","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"高清MP4","name":"┃磁力┃高清MP4┃","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/%E4%BA%91%E7%9B%98/XYQHiker/"},
-    {"key":"酷吧电影","name":"┃磁力┃酷吧电影┃","jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1}
+    {"key":"酷吧电影","name":"┃磁力┃酷吧电影┃","jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/spider.jar","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1}
     ],
     "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "lives":[{"name":"live","type":0,"url":"https://agit.ai/xiaowei233333/2022/raw/branch/main/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],

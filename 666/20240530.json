@@ -12,6 +12,15 @@
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/聚影搜索.js"
     },
     {
+    "key":"采集之王",
+    "name":"┃采集┃合集┃",
+    "type":3,
+    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "ext":"https://gitlab.com/fcd666520/TVBox/-/raw/main/JS/采集之王.js?type=url&params=https://gitlab.com/fcd666520/TVBox/-/raw/main/JSON/采集静态.json$1$1"
+    },
+    {
     "key":"csp_KungFu404",
     "name":"┃阿里┃签到┃",
     "type":3,
@@ -46,6 +55,44 @@
     "changeable":0
     },
     {
+    "key":"新感觉",
+    "name":"┃新感觉┃APP",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://43.248.100.147:9891/api.php/app/"
+    },
+    {
+    "key":"大米星球",
+    "name":"┃大米┃APP┃",
+    "type":3,
+    "api":"csp_AppDaMi",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
+    {
+    "key":"追剧影视",
+    "name":"┃追剧┃APP┃",
+    "type":3,
+    "api":"csp_AppZJ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://z.kzjtv.com/"
+    },
+    {
+    "key":"天天影视",
+    "name":"┃天天┃APP┃",
+    "type":3,
+    "api":"csp_AppTT",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
+    {
     "key":"玩偶影视",
     "name":"┃星标┃玩偶┃",
     "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/spider.jar",
@@ -66,7 +113,7 @@
     "filterable":0,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","share":""},
     "style":{"type":"list"},
-    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar;md5;664ae622641247e6fe7bf1b9f2767fdc"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"天天弹幕",
@@ -79,7 +126,7 @@
     "ext":{
     "danmu":true
     },
-    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar;md5;5d503b9413e2f2ab1eb547980b170417"
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"酷看弹幕",
@@ -93,19 +140,35 @@
     "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
-    "key":"玩偶",
+    "key":"玩偶弹幕",
     "name":"┃玩偶┃弹幕┃",
     "type":3,
-    "api":"csp_WoGG",
+    "api":"csp_Wogg",
     "searchable":1,
     "quickSearch":1,
-    "changeable":0,
+    "filterable":1,
     "ext":{
-    "Cloud-drive":"tvfan/Cloud-drive.txt",
-    "from":"4k|auto",
-    "siteUrl":"https://www.wogg.net/",
-    "danMu":"弹"
-    }
+    "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
+    "wogg":true,
+    "danmu":true
+    },
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
+    },
+   
+    {
+    "key":"JOJO弹幕",
+    "name":"JOJO｜弹幕",
+    "type":3,
+    "api":"csp_Jiohub",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+    "danmu":true
+    },
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
     "key":"荐片弹幕",
@@ -122,6 +185,20 @@
     "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
+    "key":"哔嘀弹幕",
+    "name":"哔嘀｜弹幕",
+    "type":3,
+    "api":"csp_Bdys",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+    "site":"https://www.yjys02.com/",
+    "danmu":true
+    },
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
+    },
+    {
     "key":"厂长弹幕",
     "name":"┃厂长┃弹幕┃",
     "type":3,
@@ -131,6 +208,19 @@
     "filterable":1,
     "ext":{"danmu":true},
     "timeout":25,
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
+    },
+    {
+    "key":"文才弹幕",
+    "name":"文才｜弹幕",
+    "type":3,
+    "api":"csp_Jpys",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+    "danmu":true
+    },
     "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
@@ -153,6 +243,19 @@
     "filterable":1,
     "changeable":1,
     "ext":{"danmu":true},
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
+    },
+    {
+    "key":"酷看弹幕",
+    "name":"┃酷看┃弹幕┃",
+    "type":3,
+    "api":"csp_Kkys",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+    "danmu":true
+    },
     "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
@@ -663,6 +766,138 @@
     "filterable":1,
     "changeable":0
     },
+    //tvbox潇洒
+    {
+    "key":"夸克土豆弹幕",
+    "name":"┃土豆┃4K弹幕┃",
+    "type":3,
+    "api":"csp_Wobg",
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":1,
+    "ext":{
+    "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "site":"https://tudou.lvdoui.top",
+    "danmu":true
+    },
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
+    },
+    {
+    "key":"夸克多多弹幕",
+    "name":"┃多多┃4K弹幕┃",
+    "type":3,
+    "api":"csp_Wobg",
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":1,
+    "ext":{
+    "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "site":"https://tv.yydsys.top",
+    "danmu":true
+    },
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
+    },
+    {
+    "key":"夸克蜡笔弹幕",
+    "name":"┃蜡笔┃4K弹幕┃",
+    "type":3,
+    "api":"csp_Wobg",
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":1,
+    "ext":{
+    "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "site":"https://duopan.fun",
+    "danmu":true
+    },
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
+    },
+    {
+    "key":"夸克至臻弹幕",
+    "name":"┃至臻┃4K弹幕┃",
+    "type":3,
+    "api":"csp_Wobg",
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":1,
+    "ext":{
+    "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
+    "site":"https://mihdr.top",
+    "danmu":true
+    },
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
+    },
+    {
+    "key":"夸克奥秘弹幕",
+    "name":"┃奥秘┃4K弹幕┃",
+    "type":3,
+    "api":"csp_Wobg",
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":1,
+    "ext":{
+    "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
+    "site":"https://vip.omii.top",
+    "danmu":true
+    },
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
+    },
+    {
+    "key":"夸克云星弹幕",
+    "name":"┃云星┃4K弹幕┃",
+    "type":3,
+    "api":"csp_Wobg",
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":1,
+    "ext":{
+    "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
+    "site":"https://4k.4u4.cn",
+    "danmu":true
+    }
+    },
+    {
+    "key":"夸克木偶弹幕",
+    "name":"┃木偶┃4K弹幕┃",
+    "type":3,
+    "api":"csp_Wobg",
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":1,
+    "ext":{
+    "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
+    "site":"http://mogg.top",
+    "danmu":true
+    },
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
+    },
+    {
+    "key":"夸克团长弹幕",
+    "name":"┃团长┃4K弹幕┃",
+    "type":3,
+    "api":"csp_Tzfile",
+    "searchable":1,
+    "filterable":1,
+    "changeable":1,
+    "ext":{
+    "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "danmu":true
+    },
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
+    },
+    // ￥￥#
     {
     "key":"搜索弹幕",
     "name":"┃弹幕┃搜索┃",

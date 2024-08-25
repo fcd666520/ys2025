@@ -35,7 +35,7 @@
     "name":"┃网盘┃配置┃",
     "type":3,
     "api":"csp_Config",
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/pg.jar",
+    "jar":"https://gitlab.com/fcd666520/gao/-/raw/master/jar/pg.jar?ref_type=heads&inline=false",
     "searchable":0,
     "changeable":0,
     "style":{

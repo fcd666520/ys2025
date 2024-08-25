@@ -30,8 +30,20 @@
     "changeable":0,
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/alibaba0.jar"
     },
-{"key":"配置中心","name":"配置 | 中心[jar]","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.5},"ext":"https://gitlab.com/fcd666520/gao/-/raw/master/lib/token.json?ref_type=heads"},
-
+    {
+    "key":"网盘配置",
+    "name":"┃网盘┃配置┃",
+    "type":3,
+    "api":"csp_Config",
+    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/2024looo/master/666/JAR/pg.jar",
+    "searchable":0,
+    "changeable":0,
+    "style":{
+    "type":"rect",
+    "ratio":1
+    },
+    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js//网盘配置.json"
+    },
 
     {
     "key":"csp_YGP",

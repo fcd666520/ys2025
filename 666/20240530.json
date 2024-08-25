@@ -38,7 +38,7 @@
     "searchable":0,
     "changeable":0,
     "style":{"type":"rect","ratio":1.5},
-    "ext":"./lib/token.json"
+    "ext":"https://gitlab.com/fcd666520/gao/-/raw/master/lib/token.json"
     },
     {
     "key":"csp_YGP",

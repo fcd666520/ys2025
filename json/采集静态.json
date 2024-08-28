@@ -133,7 +133,9 @@
     },
     {
         "name": "U酷资源",
-        "url": "https://api.ukuapi.com",
+        //"url": "https://api.ukuapi.com",
+         "url": "https://api.ukuapi.com/",
+        "api": "/api.php/provide/vod/?ac=list",
         "parse_url": "",
         "cate_exclude": "电影|电视剧|综艺|动漫|记录片|伦理片|资讯",
         "class_name": "H4sIAFZXhmYC/zWP3Q6CMAyF32bPqVHRcYGSIJBoQmKC8xcwhESB8TRbO95COufV+dqenLYYNVq+GEaNEZ7mgmHXG94y7V+gv5MoeUS+Zjo+TmMi3LxgsbIkQv3piGC+g1lsfVy4KWxS1XLbO0jVCkqHdwlDbSnJrTwEDgHRbyP+7tHbCj4Dtcfsan11RWKKSss9Zar+jDuPyDRLU5QM4mpMOleMp6UOfVdMgdNzf1saQJq5ArOnXZ2v3R/olyhvE30Bu+ncCxgBAAA=",
@@ -151,6 +153,7 @@
     {
         "name": "百度云资源",
         "url": "https://api.apibdzy.com",
+        "api": "/api.php/provide/vod/?ac=list/",
         "parse_url": "",
         "cate_exclude": "电影|电视剧|综艺|动漫|伦理片|纪录片|体育赛事|资讯",
         "class_name": "H4sIAFdXhmYC/zVP7W7CMAx8mzzn1vGVTgKqla4TSEgTLMAQLaBMkDZ9msRO32KNm/67O9t3Z0yl1VeGqXRiYrlgWNWOK2bjA9S/zNQ/uJwgn3rB6A2hbNMteoSzK7yNCYnEPiuP4HUJLxntcRGmMMuN4qTtRPtFOfAooLl71G6PJHzuKV+drF6RZ1ygPoVsTCvsq9pFCc+GLs4Cm7lHdvxnqoy0e0kC5YRfOucuYyCPonMYCDkML6+1USI83t8MpA8KJDpjlvhabSShXIRaRn+46Obk2qh35uTIXQrWjwKBfA75NpD2e2ST+B8HkFGOfQEAAA==",

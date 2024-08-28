@@ -133,7 +133,6 @@
     },
     {
         "name": "U酷资源",
-        //"url": "https://api.ukuapi.com",
          "url": "https://api.ukuapi.com/",
         "api": "/api.php/provide/vod/?ac=list",
         "parse_url": "",

@@ -222,8 +222,7 @@
     "ext":{
     "danmu":true
     },
-      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
-
+    "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar"
     },
     {
     "key": "文采影视",
@@ -779,7 +778,6 @@
     "filterable":1,
     "changeable":0
     },
-    //tvbox潇洒
     {
     "key":"夸克土豆弹幕",
     "name":"┃土豆┃4K弹幕┃",
@@ -910,7 +908,6 @@
     },
     "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
-    // ￥￥#
     {
     "key":"搜索弹幕",
     "name":"┃弹幕┃搜索┃",

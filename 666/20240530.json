@@ -1466,6 +1466,454 @@
     "filterable":1,
     "playerType":"1"
     },
+
+ {
+      "key": "企鹅仔仔",
+      "name": "🐧企鹅仔仔4K",
+      "type": 3,
+      "api": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+              "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/js/xyg.js"
+    },
+    {
+      "key": "小鱼玩偶",
+      "name": "🐟小鱼玩偶4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+        "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "uc_cookie": "file://TV/uc_cookie.txt",
+        "wogg": true
+      },
+      "timeout": 30
+    },
+    {
+      "key": "玩偶哥哥",
+      "name": "👽玩偶哥哥4K",
+      "type": 3,
+      "api": "csp_WoGG",
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
+    },
+    {
+      "key": "土豆粉条",
+      "name": "🥔土豆粉条4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+              "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tudou.lvdoui.top"
+      },
+      "timeout": 25
+    },
+    {
+      "key": "蜡笔小新",
+      "name": "🖍蜡笔小新4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "http://labipan.com",
+                "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "多多影音",
+      "name": "🌥多多影音4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "site": "https://tv.yydsys.top/",
+                "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "至臻影视",
+      "name": "⚡至臻影视4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "uc_cookie": "file://TV/uc_cookie.txt",
+        "site": "http://mpanso.com/",
+                "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+        "danmu": true
+      }
+    },
+    {
+      "key": "木偶哥哥",
+      "name": "🪵木偶哥哥4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "uc_cookie": "file://TV/uc_cookie.txt",
+        "site": "http://mogg.top",
+                "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+        "danmu": true
+      }
+    },
+    {
+      "key": "六趣资源",
+      "name": "🍭六趣资源4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "uc_cookie": "file://TV/uc_cookie.txt",
+        "site": "http://43.136.41.222:2333/",
+                "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+        "danmu": true
+      }
+    },
+    {
+      "key": "云星日记",
+      "name": "☁️云星日记4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+          "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "uc_cookie": "file://TV/uc_cookie.txt",
+        "site": "https://4k.4u4.cn/",
+        "danmu": true
+      }
+    },
+    {
+      "key": "奥秘影视",
+      "name": "🍔奥秘影视4K",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+        "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "uc_cookie": "file://TV/uc_cookie.txt",
+        "site": "https://vip.omii.top/",
+        "danmu": true
+      }
+    },
+    {
+      "key": "团长夸克",
+      "name": "🏳️团长夸克4K",
+      "type": 3,
+      "api": "csp_Tzfile",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "uc_cookie": "file://TV/uc_cookie.txt",
+        "danmu": true
+      },
+      "timeout": 25
+    },
+    {
+      "key": "六维影视",
+      "name": "🧲六维影视4K",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "searchable": 1,
+      "changeable": 0,
+      "timeout": 20
+    },
+    {
+      "key": "桃子影视",
+      "name": "🍑桃子影视4K",
+      "type": 3,
+      "api": "csp_Oka",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10,
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": "{\"cateUrl\":\"https://www.taozi007.com/show/{cateId}--------{page}---.html\",\"cate\":\"电影$1#剧集$2#动漫$3#综艺$4#短剧$5\",\"playFrom\":\".module-tab-items.module-tab-itemspan\",\"playUrl\":\".module-list.module-play-list\",\"search\":\"/search/{search}-------------.html\",\"webview\":1}"
+    },
+    {
+      "key": "小鱼内测1",
+      "name": "🌪明月清风4K",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": "http://122.228.85.203:1000/api.php/app/"
+    },
+    {
+      "key": "小鱼内测2",
+      "name": "🌞浅墨惜晨4K",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": "http://110.40.61.7:81/api.php/app/"
+    },
+    {
+      "key": "追觅企鹅",
+      "name": "🌟追觅企鹅4K",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": "http://ly4k.llys.online/api.php/app/"
+    },
+    {
+      "key": "腾云驾雾",
+      "name": "🐧腾云驾雾4K",
+      "type": 3,
+      "api": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/js/腾云驾雾.js"
+    },
+    {
+      "key": "百忙无果",
+      "name": "🥭百忙无果4K",
+      "type": 3,
+      "api": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/js/百忙无果.js"
+    },
+    {
+      "key": "荐片影视",
+      "name": "😺荐片影视1K",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10
+    },
+    {
+      "key": "低端影视",
+      "name": "🍄低端影视1K",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "api": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/drpy2.min.js",
+      "ext": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/js/低端影视.js",
+      "timeout": 15
+    },
+    {
+      "key": "奇异果果",
+      "name": "🥝奇异果果1K",
+      "type": 3,
+      "api": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/js/奇异果果.js"
+    },
+    {
+      "key": "裤子破破",
+      "name": "👖裤子破破1K",
+      "type": 3,
+      "api": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "ext": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/js/裤子破破.js"
+    },
+    {
+      "key": "趣盘夸克",
+      "name": "🤓趣搜夸克4K",
+      "type": 3,
+      "api": "csp_QuPanSou",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "cookie": "file://TV/quark_cookie.txt"
+      },
+      "timeout": 15
+    },
+    {
+      "key": "夸克资源",
+      "name": "🐚夸克搜索4K",
+      "type": 3,
+      "api": "csp_Qkpanso",
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "cookie": "file://TV/quark_cookie.txt"
+      },
+      "timeout": 15
+    },
+    {
+      "key": "米搜资源",
+      "name": "🦋米搜资源4K",
+      "type": 3,
+      "api": "csp_MIPanSo",
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "抠搜资源",
+      "name": "🍄抠搜资源4K",
+      "type": 3,
+      "api": "csp_KkSs",
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "夸搜资源",
+      "name": "🐟夸搜资源4K",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "易搜",
+      "name": "😹易搜资源4K",
+      "type": 3,
+      "api": "csp_YiSo",
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "盘搜资源",
+      "name": "🦊盘搜资源4K",
+      "type": 3,
+      "api": "csp_PanSou",
+      "jar": "https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+
+
     {"key":"夸克玩偶弹幕","name":"┃夸克┃玩偶┃","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"},
     {"key":"夸克盘搜弹幕","name":"┃夸克┃盘搜┃","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true},"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/danmu.jar"},
     {"key":"云盘搜索","name":"┃云盘┃搜索┃","jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/云盘/XYQHiker/云盘搜索.json"},

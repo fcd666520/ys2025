@@ -1101,6 +1101,22 @@
     "danmu":true},"jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/danmu.jar"
     },
     {
+      "key": "六趣资源",
+      "name": "┃六趣┃资源┃",
+      "type": 3,
+      "api": "csp_Wobg",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "uc_cookie": "file://TV/uc_cookie.txt",
+        "site": "http://43.136.41.222:2333/",
+        "danmu": true
+      }
+    },
+    {
     "key":"红牛资源",
     "name":"┃红牛┃采集┃",
     "type":1,

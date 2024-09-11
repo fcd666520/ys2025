@@ -16,9 +16,8 @@
       "name": "┃肥猫┃蜡笔┃影视┃",
       "type": 3,
       "api": "csp_Duopan",
-    "jar":"http://1.95.79.193/PandaQ240908.jar"
-
-      "filterable": 1,
+    "jar":"http://1.95.79.193/PandaQ240908.jar",
+       "filterable": 1,
       "ext": {
         "site_urls": [
           "https://duopan.fun",

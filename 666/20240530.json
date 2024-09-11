@@ -12,8 +12,22 @@
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/聚影搜索.js"
     },
     {
+      "key": "csp_Duopan",
+      "name": "┃肥猫┃蜡笔┃影视┃",
+      "type": 3,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "ext": {
+        "site_urls": [
+          "https://duopan.fun",
+          "http://labipan.com",
+          "https://mihdr.top"
+        ]
+      }
+    },
+    {
     "key":"采集之王",
-    "name":"┃采集┃聚集┃聚搜┃",
+    "name":"┃潇洒┃采集┃聚搜┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/TVBox/-/raw/main/JS/drpy2.min.js",
     "searchable":1,
@@ -276,7 +290,7 @@
     "key":"可可影视",
     "name":"┃可可┃多线┃影视┃",
     "type":3,
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+    "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/spider.jar",
     "api":"csp_Keke",
     "searchable":1,
     "quickSearch":1,
@@ -313,7 +327,7 @@
     },
     {
     "key":"Freeok",
-    "name":"┃ＦＲ┃在线┃影视┃",
+    "name":"┃ＦＲ┃多线┃影视┃",
     "jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
     "type":3,
     "api":"csp_XBPQ",

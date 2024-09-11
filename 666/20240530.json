@@ -157,20 +157,6 @@
     },
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
     },
-   
-    {
-    "key":"JOJO弹幕",
-    "name":"┃ＪＯ┃弹幕┃影视┃",
-    "type":3,
-    "api":"csp_Jiohub",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{
-    "danmu":true
-    },
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
-    },
     {
     "key":"荐片弹幕",
     "name":"┃弹幕┃荐片┃影视┃",
@@ -271,15 +257,12 @@
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
     },
     {
-    "key":"荐片",
-    "name":"┃荐片┃磁力┃",
-    "type":3,
-    "api":"csp_JianPian",
-    "playerType":1,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://api2.rinhome.com"
+      "key": "荐片",
+      "name": "┃荐片┃┃影视┃┃ijk┃",
+      "api": "csp_Jianpian",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://api2.rinhome.com"
     },
     {
     "key":"酷看影视",

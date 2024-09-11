@@ -519,7 +519,7 @@
     },
     {
     "key":"火狐",
-    "name":"┃小茶┃杯狐┃",
+    "name":"┃小茶┃杯狐┃影视┃",
     "type":1,
     "api":"https://hhzyapi.com/api.php/provide/vod/",
     "searchable":1,
@@ -545,10 +545,10 @@
     },
     {
     "key":"Lib",
-    "name":"┃利播┃直连┃",
+    "name":"┃利播┃直连┃影视┃",
     "type":3,
     "api":"csp_Libvio",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709930083738/fan.txt;md5;9fdf355f7d803698900ccf4ceb4626cb",
+    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
     "searchable":1,
     "quickSearch":1,
     "changeable":1,
@@ -556,105 +556,105 @@
     },
     {
     "key":"大米星球2024",
-    "name":"┃大米┃影视┃",
+    "name":"┃大米┃多线┃影视┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%832024.js"
     },
     {
     "key":"drpy_js_555影视V2",
-    "name":"┃五五┃影视┃",
+    "name":"┃五五┃多线┃影视┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/555影视V2.js"
     },
     {
     "key":"drpy_js_我爱跟剧",
-    "name":"┃我爱┃影视┃",
+    "name":"┃我爱┃多线┃影视┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/我爱跟剧.js"
     },
     {
     "key":"drpy_js_快看",
-    "name":"┃快看┃影视┃",
+    "name":"┃快看┃多线┃影视┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/快看.js"
     },
     {
     "key":"drpy_js_TVB云播",
-    "name":"┃云播┃影视┃",
+    "name":"┃云播┃多线┃影视┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/TVB云播.js"
     },
     {
     "key":"drpy_js_哔哩影视",
-    "name":"┃哔哩┃影视┃",
+    "name":"┃哔哩┃哔哩┃影视┃",
     "type":3,
     "api":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
     "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
     },
     {
     "key":"drpy_js_58动漫",
-    "name":"┃五八┃动漫┃",
+    "name":"┃五八┃多线┃动漫┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/58动漫.js"
     },
     {
     "key":"drpy_js_哔哩影视",
-    "name":"┃Ｂ站┃动漫┃",
+    "name":"┃Ｂ站┃哔哩┃动漫┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/哔哩影视.js"
     },
     {
     "key":"drpy_js_异世界动漫",
-    "name":"┃异界┃动漫┃",
+    "name":"┃异界┃世界┃动漫┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/异世界动漫.js"
     },
     {
     "key":"drpy_js_曲奇动漫",
-    "name":"┃曲奇┃动漫┃",
+    "name":"┃曲奇┃动漫┃   ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/曲奇动漫.js"
     },
     {
     "key":"drpy_js_奇米动漫",
-    "name":"┃奇米┃动漫┃",
+    "name":"┃奇米┃动漫┃   ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/奇米动漫.js"
     },
     {
     "key":"drpy_js_动漫岛",
-    "name":"┃漫岛┃动漫┃",
+    "name":"┃漫岛┃动漫┃   ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/动漫岛.js"
     },
     {
     "key":"drpy_js_爱弹幕",
-    "name":"┃爱弹┃动漫┃",
+    "name":"┃爱弹┃动漫┃   ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/爱弹幕.js"
     },
     {
     "key":"drpy_js_路漫漫",
-    "name":"┃漫漫┃动漫┃",
+    "name":"┃漫漫┃动漫┃   ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/路漫漫.js"
     },
     {
     "key":"樱花",
-    "name":"┃樱花┃动漫┃",
+    "name":"┃樱花┃动漫┃   ┃",
     "type":3,
     "api":"csp_XBPQ",
     "ext":"分类url:https://www.857yhw.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman",
@@ -662,21 +662,21 @@
     },
     {
     "key":"Anime1",
-    "name":"┃ＡＭ┃动漫┃",
+    "name":"┃ＡＭ┃动漫┃   ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/%E5%8A%A8%E6%BC%AB/JS/Anime1.js"
     },
     {
     "key":"drpy_js_NT动漫",
-    "name":"┃ＮＴ┃动漫┃",
+    "name":"┃ＮＴ┃动漫┃   ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/NT动漫.js"
     },
     {
     "key":"csp_Dm84",
-    "name":"┃巴士┃动漫┃",
+    "name":"┃巴士┃动漫┃   ┃",
     "type":3,
     "api":"csp_Dm84",
     "searchable":1,
@@ -685,21 +685,21 @@
     },
     {
     "key":"drpy_js_怡萱动漫",
-    "name":"┃怡萱┃动漫┃",
+    "name":"┃怡萱┃动漫┃   ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/怡萱动漫.js"
     },
     {
     "key":"drpy_js_AnFuns",
-    "name":"┃ＡＮ┃动漫┃",
+    "name":"┃ＡＮ┃动漫┃   ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/AnFuns.js"
     },
     {
     "key":"YiSo",
-    "name":"┃易搜┃饭硬┃",
+    "name":"┃易搜┃饭硬┃   ┃",
     "type":3,
     "api":"csp_YiSo",
     "searchable":1,
@@ -709,7 +709,7 @@
     },
     {
     "key":"Zhaozy",
-    "name":"┃资源┃饭硬┃",
+    "name":"┃资源┃饭硬┃   ┃",
     "type":3,
     "api":"csp_Zhaozy",
     "searchable":1,
@@ -719,7 +719,7 @@
     },
     {
     "key":"PanSou",
-    "name":"┃盘搜┃饭硬┃",
+    "name":"┃盘搜┃饭硬┃   ┃",
     "type":3,
     "api":"csp_PanSou",
     "searchable":1,
@@ -729,7 +729,7 @@
     },
     {
     "key":"UpYun",
-    "name":"┃Ｕ搜┃饭硬┃",
+    "name":"┃Ｕ搜┃饭硬┃   ┃",
     "type":3,
     "api":"csp_UpYun",
     "searchable":1,
@@ -739,7 +739,7 @@
     },
     {
     "key":"PanSearch",
-    "name":"┃盘Ｓ┃饭硬┃",
+    "name":"┃盘Ｓ┃饭硬┃   ┃",
     "type":3,
     "api":"csp_PanSearch",
     "searchable":1,
@@ -749,7 +749,7 @@
     },
     {
     "key":"七夜",
-    "name":"┃七夜┃饭硬┃",
+    "name":"┃七夜┃饭硬┃   ┃",
     "type":3,
     "api":"csp_Dovx",
     "searchable":1,
@@ -759,7 +759,7 @@
     },
     {
     "key":"芒果",
-    "name":"┃芒果┃影视┃",
+    "name":"┃芒果┃影视┃   ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/芒果.js"
@@ -773,21 +773,21 @@
     },
     {
     "key":"优酷",
-    "name":"┃优酷┃影视┃",
+    "name":"┃优酷┃影视┃   ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/优酷.js"
     },
     {
     "key":"腾讯",
-    "name":"┃腾讯┃影视┃",
+    "name":"┃腾讯┃影视┃   ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/腾讯.js"
     },
     {
     "key":"csp_SP33",
-    "name":"┃叁叁┃影视┃",
+    "name":"┃叁叁┃影视┃   ┃",
     "type":3,
     "api":"csp_SP33",
     "searchable":1,
@@ -797,7 +797,7 @@
     },
     {
     "key":"夸克土豆弹幕",
-    "name":"┃土豆┃4K弹幕┃",
+    "name":"┃土豆┃4K弹幕┃   ┃",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -813,7 +813,7 @@
     },
     {
     "key":"夸克多多弹幕",
-    "name":"┃多多┃4K弹幕┃",
+    "name":"┃多多┃4K弹幕┃   ┃",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -829,7 +829,7 @@
     },
     {
     "key":"夸克蜡笔弹幕",
-    "name":"┃蜡笔┃4K弹幕┃",
+    "name":"┃蜡笔┃4K弹幕┃   ┃",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -845,7 +845,7 @@
     },
     {
     "key":"夸克至臻弹幕",
-    "name":"┃至臻┃4K弹幕┃",
+    "name":"┃至臻┃4K弹幕┃   ┃",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -862,7 +862,7 @@
     },
     {
     "key":"夸克奥秘弹幕",
-    "name":"┃奥秘┃4K弹幕┃",
+    "name":"┃奥秘┃4K弹幕┃   ┃",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -879,7 +879,7 @@
     },
     {
     "key":"夸克云星弹幕",
-    "name":"┃云星┃4K弹幕┃",
+    "name":"┃云星┃4K弹幕┃   ┃",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -895,7 +895,7 @@
     },
     {
     "key":"夸克木偶弹幕",
-    "name":"┃木偶┃4K弹幕┃",
+    "name":"┃木偶┃4K弹幕┃   ┃",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -912,7 +912,7 @@
     },
     {
     "key":"夸克团长弹幕",
-    "name":"┃团长┃4K弹幕┃",
+    "name":"┃团长┃4K弹幕┃   ┃",
     "type":3,
     "api":"csp_Tzfile",
     "searchable":1,
@@ -927,7 +927,7 @@
     },
     {
     "key":"搜索弹幕",
-    "name":"┃弹幕┃搜索┃",
+    "name":"┃弹幕┃搜索┃   ┃",
     "type":3,
     "api":"csp_PanSearch",
     "searchable":1,

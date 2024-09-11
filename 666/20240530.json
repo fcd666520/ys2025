@@ -626,35 +626,35 @@
     },
     {
     "key":"drpy_js_奇米动漫",
-    "name":"┃奇米┃动漫┃   ┃",
+    "name":"┃奇米┃动漫┃多线┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/奇米动漫.js"
     },
     {
     "key":"drpy_js_动漫岛",
-    "name":"┃漫岛┃动漫┃   ┃",
+    "name":"┃漫岛┃动漫┃多线┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/动漫岛.js"
     },
     {
     "key":"drpy_js_爱弹幕",
-    "name":"┃爱弹┃动漫┃   ┃",
+    "name":"┃爱弹┃动漫┃多线┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/爱弹幕.js"
     },
     {
     "key":"drpy_js_路漫漫",
-    "name":"┃漫漫┃动漫┃   ┃",
+    "name":"┃漫漫┃动漫┃多线┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/路漫漫.js"
     },
     {
     "key":"樱花",
-    "name":"┃樱花┃动漫┃   ┃",
+    "name":"┃樱花┃动漫┃多线┃",
     "type":3,
     "api":"csp_XBPQ",
     "ext":"分类url:https://www.857yhw.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman",
@@ -662,21 +662,21 @@
     },
     {
     "key":"Anime1",
-    "name":"┃ＡＭ┃动漫┃   ┃",
+    "name":"┃ＡＭ┃动漫┃多线┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/%E5%8A%A8%E6%BC%AB/JS/Anime1.js"
     },
     {
     "key":"drpy_js_NT动漫",
-    "name":"┃ＮＴ┃动漫┃   ┃",
+    "name":"┃ＮＴ┃动漫┃多线┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/NT动漫.js"
     },
     {
     "key":"csp_Dm84",
-    "name":"┃巴士┃动漫┃   ┃",
+    "name":"┃巴士┃动漫┃多线┃",
     "type":3,
     "api":"csp_Dm84",
     "searchable":1,
@@ -685,49 +685,49 @@
     },
     {
     "key":"drpy_js_怡萱动漫",
-    "name":"┃怡萱┃动漫┃   ┃",
+    "name":"┃怡萱┃动漫┃多线┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/怡萱动漫.js"
     },
     {
     "key":"drpy_js_AnFuns",
-    "name":"┃ＡＮ┃动漫┃   ┃",
+    "name":"┃ＡＮ┃动漫┃多线┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/AnFuns.js"
     },
     {
     "key":"芒果",
-    "name":"┃芒果┃影视┃   ┃",
+    "name":"┃芒果┃影视┃官方┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/芒果.js"
     },
     {
     "key":"爱奇异",
-    "name":"┃奇异┃影视┃   ┃",
+    "name":"┃奇异┃影视┃官方┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/爱奇艺.js"
     },
     {
     "key":"优酷",
-    "name":"┃优酷┃影视┃   ┃",
+    "name":"┃优酷┃影视┃官方┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/优酷.js"
     },
     {
     "key":"腾讯",
-    "name":"┃腾讯┃影视┃   ┃",
+    "name":"┃腾讯┃影视┃官方┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/腾讯.js"
     },
     {
     "key":"csp_SP33",
-    "name":"┃叁叁┃影视┃   ┃",
+    "name":"┃叁叁┃影视┃官方┃",
     "type":3,
     "api":"csp_SP33",
     "searchable":1,
@@ -1413,60 +1413,59 @@
     "filterable":1,
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
     },
-   {
-      "key": "夸搜",
-      "name": "┃夸搜┃狸夸┃饭硬┃",
-      "type": 3,
-      "api": "csp_PanSearch",
-          "jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
-
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "pan": "quark",
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
+    {
+    "key":"夸搜",
+    "name":"┃夸搜┃狸夸┃饭硬┃",
+    "type":3,
+    "api":"csp_PanSearch",
+    "jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0,
+    "ext":{
+    "pan":"quark",
+    "Cloud-drive":"tvfan/Cloud-drive.txt",
+    "from":"4k|auto"
+    }
     },
     {
-      "key": "YiSo",
-      "name": "┃易搜┃阿狸┃饭硬┃",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
+    "key":"YiSo",
+    "name":"┃易搜┃阿狸┃饭硬┃",
+    "type":3,
+    "api":"csp_YiSo",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0,
+    "ext":{
+    "Cloud-drive":"tvfan/Cloud-drive.txt",
+    "from":"4k|auto"
+    }
     },
     {
-      "key": "PanSou",
-      "name": "┃盘搜┃阿狸┃饭硬┃",
-      "type": 3,
-      "api": "csp_PanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
+    "key":"PanSou",
+    "name":"┃盘搜┃阿狸┃饭硬┃",
+    "type":3,
+    "api":"csp_PanSou",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0,
+    "ext":{
+    "Cloud-drive":"tvfan/Cloud-drive.txt",
+    "from":"4k|auto"
+    }
     },
     {
-      "key": "PanSearch",
-      "name": "┃盘Se┃阿狸┃饭硬┃",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      }
+    "key":"PanSearch",
+    "name":"┃盘Se┃阿狸┃饭硬┃",
+    "type":3,
+    "api":"csp_PanSearch",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0,
+    "ext":{
+    "Cloud-drive":"tvfan/Cloud-drive.txt",
+    "from":"4k|auto"
+    }
     },
     {
     "key":"玩偶哥哥",
@@ -1706,65 +1705,65 @@
     "ext":"http://www.xb6v.com"
     },
     {
-        "key":"美剧迷",
-        "name":"┃磁力┃美剧┃搜索┃",
-        "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
-        "type":3,
-        "api":"csp_MeijuMi",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1
-        },
+    "key":"美剧迷",
+    "name":"┃磁力┃美剧┃搜索┃",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
+    "type":3,
+    "api":"csp_MeijuMi",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
     {
-        "key":"迅雷吧",
-        "name":"┃磁力┃迅雷┃搜索┃",
-        "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
-        "type":3,
-        "api":"csp_Xunlei8",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1
-        },
+    "key":"迅雷吧",
+    "name":"┃磁力┃迅雷┃搜索┃",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
+    "type":3,
+    "api":"csp_Xunlei8",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
     {
-        "key":"Mp4电影",
-        "name":"┃磁力┃电影┃搜索┃",
-        "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
-        "type":3,
-        "api":"csp_Mp4Mov",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1
-        },
+    "key":"Mp4电影",
+    "name":"┃磁力┃电影┃搜索┃",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
+    "type":3,
+    "api":"csp_Mp4Mov",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
     {
-        "key":"SeedHub",
-        "name":"┃磁力┃ＳＨ┃搜索┃",
-        "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-        "type":3,
-        "api":"csp_SeedHub",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1
-        },
+    "key":"SeedHub",
+    "name":"┃磁力┃ＳＨ┃搜索┃",
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+    "type":3,
+    "api":"csp_SeedHub",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
     {
-        "key":"高清MP4",
-        "name":"┃磁力┃高清┃搜索┃",
-        "type":3,
-        "api":"csp_XYQHiker",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1,
-        "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/%E4%BA%91%E7%9B%98/XYQHiker/"
-        },
+    "key":"高清MP4",
+    "name":"┃磁力┃高清┃搜索┃",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/%E4%BA%91%E7%9B%98/XYQHiker/"
+    },
     {
-        "key":"酷吧电影",
-        "name":"┃磁力┃酷吧┃电影┃",
-        "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-        "type":3,
-        "api":"csp_KubaCL",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1
-        }
+    "key":"酷吧电影",
+    "name":"┃磁力┃酷吧┃电影┃",
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+    "type":3,
+    "api":"csp_KubaCL",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    }
     ],
     "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "lives":[{"name":"live","type":0,"url":"https://agit.ai/xiaowei233333/2022/raw/branch/main/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],

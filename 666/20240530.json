@@ -310,15 +310,6 @@
     "ext":"http://api2.rinhome.com"
     },
     {
-    "key":"酷看影视",
-    "name":"┃酷看┃影视┃影视┃",
-    "type":3,
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-    "api":"csp_Wexkukantv",
-    "searchable":1,
-    "changeable":1
-    },
-    {
     "key":"可可影视",
     "name":"┃可可┃多线┃影视┃",
     "type":3,
@@ -400,32 +391,11 @@
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/达达龟.js"
     },
     {
-    "key":"drpy_js_多瑙影视",
-    "name":"┃多瑙┃影院┃ＪＳ┃",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/多瑙影视.js"
-    },
-    {
     "key":"drpy_js_蓝光影院",
     "name":"┃蓝光┃影院┃ＪＳ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/蓝光影院.js"
-    },
-    {
-    "key":"drpy_js_影视工场",
-    "name":"┃工场┃影视┃ＪＳ┃",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/影视工场.js"
-    },
-    {
-    "key":"drpy_js_朴樱影视",
-    "name":"┃朴樱┃影视┃ＪＳ┃",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/朴樱影视.js"
     },
     {
     "key":"drpy_js_南瓜影视",
@@ -435,7 +405,7 @@
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/南瓜影视.js"},
     {
     "key":"LIBVIO",
-    "name":"┃ＬＩ┃影视┃ＪＳ┃",
+    "name":"┃利播┃影视┃ＪＳ┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/LIBVIO.js"
@@ -467,13 +437,6 @@
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/骚火电影.js"
-    },
-    {
-    "key":"drpy_js_大师兄影视",
-    "name":"┃师兄┃影视┃ＪＳ┃",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/大师兄影视.js"
     },
     {
     "key":"drpy_js_看了么",
@@ -1014,7 +977,7 @@
     },
     {
     "key":"红牛资源",
-    "name":"┃红牛┃采集┃搜索┃",
+    "name":"┃红牛┃采集┃磁力┃",
     "type":1,
     "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
     "searchable":1,
@@ -1023,7 +986,7 @@
     },
     {
     "key":"极速资源",
-    "name":"┃极速┃采集┃搜索┃",
+    "name":"┃极速┃采集┃磁力┃",
     "type":1,
     "api":"https://jszyapi.com/api.php/provide/vod/",
     "searchable":1,
@@ -1031,31 +994,25 @@
     "categories":["内地剧","韩剧","日剧","台湾剧","香港剧","马泰剧","欧美剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]},
     {
     "key":"快车资源",
-    "name":"┃快车┃采集┃搜索┃",
+    "name":"┃快车┃采集┃磁力┃",
     "type":1,
     "api":"https://caiji.kczyapi.com/api.php/provide/vod/",
     "searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","动画片","纪录片","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","国产动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
     {
     "key":"量子资源",
-    "name":"┃量子┃采集┃搜索┃",
+    "name":"┃量子┃采集┃磁力┃",
     "type":1,
     "api":"https://cj.lziapi.com/api.php/provide/vod/",
     "searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
     {
     "key":"非凡资源",
-    "name":"┃非凡┃采集┃搜索┃",
+    "name":"┃非凡┃采集┃磁力┃",
     "type":1,
-    "api":"http://cj.ffzyapi.com/api.php/provide/vod/",
+    "api":"http://api.ffzyapi.com/api.php/provide/vod/",
     "searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
     {
-    "key":"熊掌",
-    "name":"┃熊掌┃采集┃搜索┃",
-    "type":1,
-    "api":"https://xzcjz.com/api.php/provide/vod",
-    "searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
-    {
     "key":"索尼",
-    "name":"┃索尼┃２Ｋ┃搜索┃",
+    "name":"┃索尼┃影视┃磁力┃",
     "type":1,
     "api":"https://suoniapi.com/api.php/provide/vod/?ac=list",
     "playUrl":"",
@@ -1088,38 +1045,8 @@
     "国产动漫"
     ]
     },
-    {
-    "key":"暴风采集",
-    "name":"┃暴风┃影音┃搜索┃",
-    "type":1,
-    "api":"https://app.bfzyapi.com/api.php/provide/vod/",
-    "playUrl":"",
-    "categories":[
-    "国产剧",
-    "国产动漫",
-    "动作片",
-    "科幻片",
-    "剧情片",
-    "喜剧片",
-    "爱情片",
-    "恐怖片",
-    "战争片",
-    "香港剧",
-    "台湾剧",
-    "日本剧",
-    "欧美剧",
-    "泰国剧",
-    "日本动漫",
-    "综艺频道",
-    "大陆综艺",
-    "港台综艺",
-    "日本综艺",
-    "新马泰综艺",
-    "纪录片"
-    ]
-    },
     {"key":"七新",
-    "name":"┃七新┃２Ｋ┃搜索┃",
+    "name":"┃七新┃影视┃磁力┃",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
@@ -1153,7 +1080,7 @@
     },
     {
     "key":"奈落",
-    "name":"┃奈落┃２Ｋ┃搜索┃",
+    "name":"┃奈落┃影视┃磁力┃",
     "type":3,"api":"csp_XBPQ",
     "ext":{"线路数组":"data-dropdown-value=&&</div>",
     "播放数组":"<divclass=\"scroll-content&&</div>",
@@ -1161,83 +1088,16 @@
     "分类url":"https://nailuoys.com/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
     "分类":"电影$1#剧集$2#综艺$4#动漫$3"
     }},
-    {"key":"49zy",
-    "name":"┃４９┃２Ｋ┃搜索┃",
-    "type":1,
-    "api":"https://49zyw.com/api.php/provide/vod/?ac=list",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "changeable":1,
-    "categories":[
-    "国产剧",
-    "纪录片",
-    "欧美剧",
-    "香港剧",
-    "动作片",
-    "爱情片",
-    "科幻片",
-    "恐怖片",
-    "剧情片",
-    "战争片",
-    "喜剧片",
-    "动画片",
-    "犯罪片",
-    "韩国剧",
-    "动漫",
-    "电影",
-    "大陆综艺",
-    "港台综艺",
-    "日韩综艺",
-    "欧美综艺",
-    "台湾剧",
-    "国产动漫",
-    "日本动漫",
-    "欧美动漫",
-    "泰国剧",
-    "日剧",
-    "电影解说",
-    "奇幻片",
-    "灾难片",
-    "悬疑片",
-    "其他片",
-    "体育赛事",
-    "海外剧"
-    ]
-    },
-    {
-    "key":"csp_XYQHiker_‍dyx",
-    "name":"┃影港┃２Ｋ┃搜索┃",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json",
-    "jar":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
-    },
-    {
-    "key":"csp_XYQHikerAL_4KHDR",
-    "name":"┃ＨＤ┃２Ｋ┃搜索┃",
-    "type":3,
-    "api":"csp_XYQHikerAL",
-    "playerType":1,
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "ext":"https://pan.shangui.cc/f/b8RaU1/4KHDR.json",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/XYQ.jar"
-    },
     {
     "key":"drpy_js_6V[新版]",
-    "name":"┃新六┃磁力┃搜索┃",
+    "name":"┃新六┃影视┃磁力┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/6V[新版].js"
     },
     {
     "key":"csp_XYQHiker_电影港磁力",
-    "name":"┃影港┃磁力┃搜索┃",
+    "name":"┃影港┃影视┃磁力┃",
     "type":3,
     "api":"csp_XYQHiker",
     "searchable":1,
@@ -1246,7 +1106,7 @@
     },
     {
     "key":"csp_Mp4Mov",
-    "name":"┃Ｍ４┃电影┃搜索┃",
+    "name":"┃Ｍ４┃电影┃磁力┃",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_Mp4Mov",
@@ -1256,7 +1116,7 @@
     },
     {
     "key":"csp_New6v",
-    "name":"┃新６┃磁力┃搜索┃",
+    "name":"┃新６┃影视┃磁力┃",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_New6v",
@@ -1267,7 +1127,7 @@
     },
     {
     "key":"csp_SeedHub",
-    "name":"┃Seed┃塞尔┃搜索┃",
+    "name":"┃ＳＥ┃塞尔┃磁力┃",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_SeedHub",
@@ -1277,19 +1137,8 @@
     "filterable":1
     },
     {
-    "key":"csp_XYQHikerdyx",
-    "name":"┃电影┃港湾┃搜索┃",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://pan.shangui.cc/f/njAEt2/%E7%94%B5%E5%BD%B1%E6%B8%AF.json",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/XYQ.jar"
-    },
-    {
     "key":"csp_MeijuTT",
-    "name":"┃美剧┃天堂┃搜索┃",
+    "name":"┃美剧┃天堂┃磁力┃",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_MeijuTT",
@@ -1300,7 +1149,7 @@
     },
     {
     "key":"csp_MeijuMi",
-    "name":"┃美剧┃迷啊┃搜索┃",
+    "name":"┃美剧┃迷啊┃磁力┃",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_MeijuMi",
@@ -1311,18 +1160,18 @@
     },
     {
     "key":"yinfans",
-    "name":"┃磁力┃音范┃搜索┃",
+    "name":"┃磁力┃音范┃磁力┃",
     "type":3,
     "api":"csp_XPath",
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/yinfans.json"
+    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/cili/yinfans.json"
     },
     {
     "key":"bt0",
-    "name":"┃磁力┃ＢＴ┃搜索┃",
+    "name":"┃磁力┃ＢＴ┃磁力┃",
     "type":3,
     "playerType":3,
     "api":"csp_Bt0",
@@ -1330,11 +1179,11 @@
     "quickSearch":1,
     "filterable":0,
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-    "ext":"https://jihulab.com/mml/looo/-/raw/master/666/cili/bt0.json"
+    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/cili/bt0.json"
     },
     {
     "key":"csp_量子",
-    "name":"┃量子┃资源┃搜索┃",
+    "name":"┃量子┃资源┃磁力┃",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,

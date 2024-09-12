@@ -476,13 +476,6 @@
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/大师兄影视.js"
     },
     {
-    "key":"金曼影视",
-    "name":"┃金曼┃影视┃ＪＳ┃",
-    "type":3,
-    "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/金曼影视.js"
-    },
-    {
     "key":"drpy_js_看了么",
     "name":"┃看了┃影视┃ＪＳ┃",
     "type":3,
@@ -547,7 +540,6 @@
     "name":"┃利播┃直连┃影视┃",
     "type":3,
     "api":"csp_Libvio",
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
     "searchable":1,
     "quickSearch":1,
     "changeable":1,

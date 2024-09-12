@@ -303,7 +303,7 @@
     },
     {
     "key":"荐片",
-    "name":"┃荐片┃影视┃ijk┃",
+    "name":"┃荐片┃影视┃播放┃",
     "api":"csp_Jianpian",
     "type":3,
     "playerType":"2",
@@ -546,41 +546,6 @@
     "ext":"https://www.libvio.fun/"
     },
     {
-    "key":"大米星球2024",
-    "name":"┃大米┃多线┃影视┃",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/%e5%a4%a7%e7%b1%b3%e6%98%9f%e7%90%832024.js"
-    },
-    {
-    "key":"drpy_js_555影视V2",
-    "name":"┃五五┃多线┃影视┃",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/555影视V2.js"
-    },
-    {
-    "key":"drpy_js_我爱跟剧",
-    "name":"┃我爱┃多线┃影视┃",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/我爱跟剧.js"
-    },
-    {
-    "key":"drpy_js_快看",
-    "name":"┃快看┃多线┃影视┃",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/快看.js"
-    },
-    {
-    "key":"drpy_js_TVB云播",
-    "name":"┃云播┃多线┃影视┃",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/TVB云播.js"
-    },
-    {
     "key":"drpy_js_哔哩影视",
     "name":"┃哔哩┃哔哩┃影视┃",
     "type":3,
@@ -602,15 +567,8 @@
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/哔哩影视.js"
     },
     {
-    "key":"drpy_js_异世界动漫",
-    "name":"┃异界┃世界┃动漫┃",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/异世界动漫.js"
-    },
-    {
     "key":"drpy_js_曲奇动漫",
-    "name":"┃异界┃世界┃动漫┃",
+    "name":"┃曲奇┃世界┃动漫┃",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/曲奇动漫.js"

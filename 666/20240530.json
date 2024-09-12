@@ -69,6 +69,15 @@
     "filterable":1,
     "changeable":0
     },
+        {
+            "key": "快看影视",
+            "name": "┃快看┃影视┃多线┃",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
     "key":"六六六",
     "name":"┃六六┃APP┃解析┃",
@@ -470,7 +479,7 @@
     "key":"drpy_js_金曼影视",
     "name":"┃金曼┃影视┃ＪＳ┃",
     "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
+    "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/金曼影视.js"
     },
     {
@@ -481,30 +490,20 @@
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/看了么.js"
     },
     {
-    "key":"圣城影视",
-    "name":"┃圣城┃影视┃ＪＳ┃",
+    "key":"酷云影视",
+    "name":"┃酷云┃影视┃ＪＳ┃",
     "type":3,
     "playerType":"2",
-    "api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-    "ext":"http://dt.xn--yety82d.love/js/SC1080.js"
-    },
-    {
-    "key":"云播影视",
-    "name":"┃云播┃影视┃ＪＳ┃",
-    "type":3,
-    "playerType":"2",
-    "api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-    "ext":"http://dt.xn--yety82d.love/js/TVB云播.js"
-    },
-    {
-    "key":"秋霞影视",
-    "name":"┃秋霞┃影视┃ＪＳ┃",
-    "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/秋霞影视.js"
+    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/酷云影视.js"
+    },
+    {
+    "key":"tv云播",
+    "name":"┃ＴＶ┃云播┃ＪＳ┃",
+    "type":3,
+    "playerType":"2",
+    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
+    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/tv云播.js"
     },
     {
     "key":"新视觉影院",

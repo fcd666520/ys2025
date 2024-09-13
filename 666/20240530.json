@@ -80,7 +80,7 @@
     },
     {
     "key":"六六六",
-    "name":"┃六六┃APP┃解析┃",
+    "name":"┃六六┃潇洒┃解析┃",
     "playerType":1,
     "type":3,
     "api":"csp_AppYsV2",
@@ -91,7 +91,7 @@
     },
     {
     "key":"丘丘影视",
-    "name":"┃丘丘┃APP┃解析┃",
+    "name":"┃丘丘┃潇洒┃解析┃",
     "playerType":1,
     "type":3,
     "api":"csp_AppYsV2",
@@ -102,7 +102,7 @@
     },
     {
     "key":"新感觉",
-    "name":"┃感觉┃APP┃影视┃",
+    "name":"┃感觉┃潇洒┃影视┃",
     "type":3,
     "api":"csp_AppYsV2",
     "searchable":1,
@@ -112,7 +112,7 @@
     },
     {
     "key":"大米星球",
-    "name":"┃大米┃APP┃影视┃",
+    "name":"┃大米┃潇洒┃影视┃",
     "type":3,
     "api":"csp_AppDaMi",
     "searchable":1,
@@ -121,7 +121,7 @@
     },
     {
     "key":"追剧影视",
-    "name":"┃追剧┃APP┃影视┃",
+    "name":"┃追剧┃潇洒┃影视┃",
     "type":3,
     "api":"csp_AppZJ",
     "searchable":1,
@@ -131,7 +131,7 @@
     },
     {
     "key":"天天影视",
-    "name":"┃天天┃APP┃影视┃",
+    "name":"┃天天┃潇洒┃影视┃",
     "type":3,
     "api":"csp_AppTT",
     "searchable":1,

@@ -69,15 +69,15 @@
     "filterable":1,
     "changeable":0
     },
-        {
-            "key": "快看影视",
-            "name": "┃快看┃影视┃多线┃",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+    {
+    "key":"快看影视",
+    "name":"┃快看┃影视┃多线┃",
+    "type":3,
+    "api":"csp_Kuaikan",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
     {
     "key":"六六六",
     "name":"┃六六┃APP┃解析┃",
@@ -1008,8 +1008,37 @@
     "key":"非凡资源",
     "name":"┃非凡┃采集┃磁力┃",
     "type":1,
-    "api":"http://api.ffzyapi.com/api.php/provide/vod/",
-    "searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+    "api":"http://cj.ffzyapi.com/api.php/provide/vod/",
+    "searchable":1,
+    "changeable":1,
+    "categories":[
+    "动作片",
+    "喜剧片",
+    "科幻片",
+    "恐怖片",
+    "爱情片",
+    "剧情片",
+    "战争片",
+    "记录片",
+    "国产剧",
+    "欧美剧",
+    "香港剧",
+    "韩国剧",
+    "台湾剧",
+    "日本剧",
+    "海外剧",
+    "泰国剧",
+    "国产动漫",
+    "日韩动漫",
+    "欧美动漫",
+    "港台动漫",
+    "海外动漫",
+    "大陆综艺",
+    "港台综艺",
+    "日韩综艺",
+    "欧美综艺"
+    ]
+    },
     {
     "key":"索尼",
     "name":"┃索尼┃影视┃磁力┃",
@@ -1246,7 +1275,7 @@
     },
     {
     "key":"PanSearch",
-    "name":"┃盘Se┃阿狸┃饭硬┃",
+    "name":"┃盘塞┃阿狸┃饭硬┃",
     "type":3,
     "api":"csp_PanSearch",
     "searchable":1,

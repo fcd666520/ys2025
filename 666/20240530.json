@@ -1586,6 +1586,7 @@
     ],
     "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，切勿付费购买接口",
     "lives":[{"name":"live","type":0,"url":"https://agit.ai/xiaowei233333/2022/raw/branch/main/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+    "logo":"https://s1.aigei.com/src/img/gif/c0/c08105a16da34b0984fcccf3626b6fa3.gif?e=1735488000&token=P7S2Xpzfz11vAkASLTkfHN7Fw-oOZBecqeJaxypL:ZKt6J5o5PF6xWgt6gtGlxJLb99U=",
     "parses":
     [{"name":"聚合","type":3,"url":"Demo"},
     {"name":"Playerjy","type":0,"url":"https://jx.playerjy.com/?url="},

@@ -33,6 +33,17 @@
     }
     },
     {
+      "key": "醉挽清风",
+      "name": "┃醉挽┃清风┃纯净┃",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
+    },
+    {
     "key":"采集之王",
     "name":"┃潇洒┃采集┃聚搜┃",
     "type":3,

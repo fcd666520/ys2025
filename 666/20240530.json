@@ -3,13 +3,13 @@
     "sites":[
     {
     "key":"本地",
-    "name":"┃本地┃文件┃视频┃",
+    "name":"本地文件视频",
     "type":3,
     "api": "csp_LocalFile"
     },
     {
     "key":"csp_KungFu404",
-    "name":"┃阿里┃签到┃设置┃",
+    "name":"阿里签到设置",
     "type":3,
     "api":"csp_KungFu404",
     "searchable":1,
@@ -19,7 +19,7 @@
     },
     {
     "key":"网盘配置",
-    "name":"┃网盘┃账号┃设置┃",
+    "name":"网盘账号设置",
     "type":3,
     "api":"csp_Config",
     "jar":"https://gitlab.com/fcd666520/gao/-/raw/master/jar/pg.jar?ref_type=heads&inline=false",
@@ -33,7 +33,7 @@
     },
     {
     "key":"juying",
-    "name":"┃影视┃聚影┃聚搜┃",
+    "name":"影视聚影聚搜",
     "type":3,
     "searchable":1,
     "changeable":0,
@@ -43,7 +43,7 @@
     },
     {
     "key":"采集之王",
-    "name":"┃潇洒┃采集┃聚搜┃",
+    "name":"潇洒采集聚搜",
     "type":3,
     "api":"https://gitlab.com/fcd666520/TVBox/-/raw/main/JS/drpy2.min.js",
     "searchable":1,
@@ -52,7 +52,7 @@
     },
     {
     "key":"玩偶影视",
-    "name":"┃星标┃阿里┃网盘┃",
+    "name":"星标阿里网盘",
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
     "type":3,
     "api":"csp_XYQHikerAL",
@@ -63,7 +63,7 @@
     },
     {
     "key":"阿里合集",
-    "name":"┃阿里┃合集┃影视┃",
+    "name":"阿里合集影视",
     "type":3,
     "api":"csp_AliShare",
     "searchable":1,
@@ -75,7 +75,7 @@
     },
     {
     "key":"csp_Duopan",
-    "name":"┃肥猫┃蜡笔┃影视┃",
+    "name":"肥猫蜡笔影视",
     "type":3,
     "api":"csp_Duopan",
     "jar":"http://happy.xn--z7x900a.com/jar/PandaQ240805.jar",
@@ -90,7 +90,7 @@
     },
     {
     "key":"csp_YGP",
-    "name":"┃叨观┃预告┃更新┃",
+    "name":"叨观预告更新",
     "type":3,
     "api":"csp_YGP",
     "searchable":0,
@@ -100,7 +100,7 @@
     },
     {
     "key":"摸鱼瓜子",
-    "name":"┃嗑嗑┃瓜子┃影视┃",
+    "name":"嗑嗑瓜子影视",
     "type":3,
     "api":"http://我不是.摸鱼儿.top/json/js/drpy.min.js",
     "filterable":1,
@@ -110,7 +110,7 @@
     },
     {
     "key":"醉挽清风",
-    "name":"┃醉挽┃清风┃纯净┃",
+    "name":"醉挽清风纯净",
     "type":3,
     "api":"http://我不是.摸鱼儿.top/json/js/drpy.min.js",
     "jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php",
@@ -122,7 +122,7 @@
     },
     {
     "key":"糯米",
-    "name":"┃糯米┃秒播┃纯净┃",
+    "name":"糯米秒播纯净",
     "type":3,
     "api":"csp_Nmyswv",
     "jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php",
@@ -133,7 +133,7 @@
     },
     {
     "key":"快看影视",
-    "name":"┃快看┃影视┃多线┃",
+    "name":"快看影视多线",
     "type":3,
     "api":"csp_Kuaikan",
     "searchable":1,
@@ -142,7 +142,7 @@
     },
     {
     "key":"六六六",
-    "name":"┃六六┃潇洒┃解析┃",
+    "name":"六六潇洒解析",
     "playerType":1,
     "type":3,
     "api":"csp_AppYsV2",
@@ -153,7 +153,7 @@
     },
     {
     "key":"丘丘影视",
-    "name":"┃丘丘┃潇洒┃解析┃",
+    "name":"丘丘潇洒解析",
     "playerType":1,
     "type":3,
     "api":"csp_AppYsV2",
@@ -164,7 +164,7 @@
     },
     {
     "key":"新感觉",
-    "name":"┃感觉┃潇洒┃影视┃",
+    "name":"感觉潇洒影视",
     "type":3,
     "api":"csp_AppYsV2",
     "searchable":1,
@@ -174,7 +174,7 @@
     },
     {
     "key":"大米星球",
-    "name":"┃大米┃潇洒┃影视┃",
+    "name":"大米潇洒影视",
     "type":3,
     "api":"csp_AppDaMi",
     "searchable":1,
@@ -183,7 +183,7 @@
     },
     {
     "key":"追剧影视",
-    "name":"┃追剧┃潇洒┃影视┃",
+    "name":"追剧潇洒影视",
     "type":3,
     "api":"csp_AppZJ",
     "searchable":1,
@@ -193,7 +193,7 @@
     },
     {
     "key":"天天影视",
-    "name":"┃天天┃潇洒┃影视┃",
+    "name":"天天潇洒影视",
     "type":3,
     "api":"csp_AppTT",
     "searchable":1,
@@ -202,7 +202,7 @@
     },
     {
     "key":"天天弹幕",
-    "name":"┃天天┃弹幕┃影视┃",
+    "name":"天天弹幕影视",
     "type":3,
     "api":"csp_TianTian",
     "searchable":1,
@@ -215,7 +215,7 @@
     },
     {
     "key":"酷看弹幕",
-    "name":"┃酷看┃弹幕┃影视┃",
+    "name":"酷看弹幕影视",
     "type":3,
     "api":"csp_Kkys",
     "searchable":1,
@@ -226,7 +226,7 @@
     },
     {
     "key":"玩偶弹幕",
-    "name":"┃玩偶┃弹幕┃影视┃",
+    "name":"玩偶弹幕影视",
     "type":3,
     "api":"csp_Wogg",
     "searchable":1,
@@ -243,7 +243,7 @@
     },
     {
     "key":"荐片弹幕",
-    "name":"┃弹幕┃荐片┃影视┃",
+    "name":"弹幕荐片影视",
     "type":3,
     "api":"csp_Jianpian",
     "playerType":1,
@@ -257,7 +257,7 @@
     },
     {
     "key":"哔嘀弹幕",
-    "name":"┃哔嘀┃弹幕┃影视┃",
+    "name":"哔嘀弹幕影视",
     "type":3,
     "api":"csp_Bdys",
     "searchable":1,
@@ -271,7 +271,7 @@
     },
     {
     "key":"厂长弹幕",
-    "name":"┃厂长┃弹幕┃影视┃",
+    "name":"厂长弹幕影视",
     "type":3,
     "api":"csp_Czzy",
     "searchable":1,
@@ -283,7 +283,7 @@
     },
     {
     "key":"文才弹幕",
-    "name":"┃文才┃弹幕┃影视┃",
+    "name":"文才弹幕影视",
     "type":3,
     "api":"csp_Jpys",
     "searchable":1,
@@ -296,7 +296,7 @@
     },
     {
     "key":"文采",
-    "name":"┃文采┃影视┃影视┃",
+    "name":"文采影视影视",
     "type":3,
     "api":"csp_Jpys",
     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
@@ -307,7 +307,7 @@
     },
     {
     "key":"南瓜弹幕",
-    "name":"┃南瓜┃弹幕┃影视┃",
+    "name":"南瓜弹幕影视",
     "type":3,
     "api":"csp_Nangua",
     "searchable":1,
@@ -318,7 +318,7 @@
     },
     {
     "key":"叁六零弹幕",
-    "name":"┃叁六┃弹幕┃影视┃",
+    "name":"叁六弹幕影视",
     "type":3,
     "api":"csp_Sp360",
     "searchable":1,
@@ -329,7 +329,7 @@
     },
     {
     "key":"酷看弹幕",
-    "name":"┃酷看┃弹幕┃影视┃",
+    "name":"酷看弹幕影视",
     "type":3,
     "api":"csp_Kkys",
     "searchable":1,
@@ -342,7 +342,7 @@
     },
     {
     "key":"荐片",
-    "name":"┃荐片┃影视┃播放┃",
+    "name":"荐片影视播放",
     "api":"csp_Jianpian",
     "type":3,
     "playerType":"2",
@@ -350,7 +350,7 @@
     },
     {
     "key":"可可影视",
-    "name":"┃可可┃多线┃影视┃",
+    "name":"可可多线影视",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/TVBox/-/raw/main/spider.jar",
     "api":"csp_Keke",
@@ -360,7 +360,7 @@
     },
     {
     "key":"Panta",
-    "name":"┃移动┃云盘┃影视┃",
+    "name":"移动云盘影视",
     "type":3,
     "api":"csp_Panta",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/pg.jar",
@@ -373,7 +373,7 @@
     },
     {
     "key":"厂长资源",
-    "name":"┃厂长┃直连┃影视┃",
+    "name":"厂长直连影视",
     "type":3,
     "api":"csp_Czzy",
     "searchable":1,
@@ -382,14 +382,14 @@
     },
     {
     "key":"看韩剧",
-    "name":"┃爱看┃韩剧┃影视┃",
+    "name":"爱看韩剧影视",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/看韩剧.js"
     },
     {
     "key":"农民",
-    "name":"┃旺旺┃农民┃影视┃",
+    "name":"旺旺农民影视",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
@@ -402,7 +402,7 @@
     },
     {
     "key":"Freeok",
-    "name":"┃ＦＲ┃多线┃影视┃",
+    "name":"ＦＲ多线影视",
     "jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
     "type":3,
     "api":"csp_XBPQ",
@@ -424,69 +424,69 @@
     },
     {
     "key":"drpy_js_达达龟",
-    "name":"┃达龟┃影院┃ＪＳ┃",
+    "name":"达龟影院ＪＳ",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/达达龟.js"
     },
     {
     "key":"drpy_js_蓝光影院",
-    "name":"┃蓝光┃影院┃ＪＳ┃",
+    "name":"蓝光影院ＪＳ",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/蓝光影院.js"
     },
     {
     "key":"drpy_js_南瓜影视",
-    "name":"┃南瓜┃影视┃ＪＳ┃",
+    "name":"南瓜影视ＪＳ",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/南瓜影视.js"},
     {
     "key":"LIBVIO",
-    "name":"┃利播┃影视┃ＪＳ┃",
+    "name":"利播影视ＪＳ",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/LIBVIO.js"
     },
     {
     "key":"drpy_js_米爱影视",
-    "name":"┃米爱┃影视┃ＪＳ┃",
+    "name":"米爱影视ＪＳ",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/米爱影视.js"
     },
     {
     "key":"drpy_js_欧帝影院",
-    "name":"┃欧帝┃影视┃ＪＳ┃",
+    "name":"欧帝影视ＪＳ",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/欧帝影院.js"
     },
     {
     "key":"drpy_js_热播之家",
-    "name":"┃热播┃影视┃ＪＳ┃",
+    "name":"热播影视ＪＳ",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/热播之家.js"
     },
     {
     "key":"drpy_js_骚火电影",
-    "name":"┃骚火┃影视┃ＪＳ┃",
+    "name":"骚火影视ＪＳ",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/骚火电影.js"
     },
     {
     "key":"drpy_js_看了么",
-    "name":"┃看了┃影视┃ＪＳ┃",
+    "name":"看了影视ＪＳ",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/看了么.js"
     },
     {
     "key":"酷云影视",
-    "name":"┃酷云┃影视┃ＪＳ┃",
+    "name":"酷云影视ＪＳ",
     "type":3,
     "playerType":"2",
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
@@ -494,7 +494,7 @@
     },
     {
     "key":"tv云播",
-    "name":"┃ＴＶ┃云播┃ＪＳ┃",
+    "name":"ＴＶ云播ＪＳ",
     "type":3,
     "playerType":"2",
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
@@ -502,7 +502,7 @@
     },
     {
     "key":"新视觉影院",
-    "name":"┃视觉┃影院┃ＪＳ┃",
+    "name":"视觉影院ＪＳ",
     "type":3,
     "api":"csp_XBPQ",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/custom_spider%20(3).jar",
@@ -513,7 +513,7 @@
     },
     {
     "key":"火狐",
-    "name":"┃小茶┃杯狐┃影视┃",
+    "name":"小茶杯狐影视",
     "type":1,
     "api":"https://hhzyapi.com/api.php/provide/vod/",
     "searchable":1,
@@ -539,7 +539,7 @@
     },
     {
     "key":"Lib",
-    "name":"┃利播┃直连┃影视┃",
+    "name":"利播直连影视",
     "type":3,
     "api":"csp_Libvio",
     "searchable":1,
@@ -549,77 +549,77 @@
     },
     {
     "key":"drpy_js_哔哩影视",
-    "name":"┃哔哩┃哔哩┃影视┃",
+    "name":"哔哩哔哩影视",
     "type":3,
     "api":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
     "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
     },
     {
     "key":"drpy_js_58动漫",
-    "name":"┃五八┃多线┃动漫┃",
+    "name":"五八多线动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/58动漫.js"
     },
     {
     "key":"drpy_js_哔哩影视",
-    "name":"┃Ｂ站┃哔哩┃动漫┃",
+    "name":"Ｂ站哔哩动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/哔哩影视.js"
     },
     {
     "key":"drpy_js_奇米动漫",
-    "name":"┃奇米┃动漫┃多线┃",
+    "name":"奇米动漫多线",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/奇米动漫.js"
     },
     {
     "key":"drpy_js_动漫岛",
-    "name":"┃漫岛┃动漫┃多线┃",
+    "name":"漫岛动漫多线",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/refs/heads/master/js/动漫岛.js"
     },
     {
     "key":"drpy_js_爱弹幕",
-    "name":"┃爱弹┃动漫┃多线┃",
+    "name":"爱弹动漫多线",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/爱弹幕.js"
     },
     {
     "key":"drpy_js_路漫漫",
-    "name":"┃漫漫┃动漫┃多线┃",
+    "name":"漫漫动漫多线",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/路漫漫.js"
     },
     {
     "key":"樱花",
-    "name":"┃樱花┃动漫┃多线┃",
+    "name":"樱花动漫多线",
     "type":3,
     "api":"csp_XBPQ",
     "ext":"分类url:https://www.857yhw.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
     },
     {
     "key":"Anime1",
-    "name":"┃ＡＭ┃动漫┃多线┃",
+    "name":"ＡＭ动漫多线",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/%E5%8A%A8%E6%BC%AB/JS/Anime1.js"
     },
     {
     "key":"drpy_js_NT动漫",
-    "name":"┃ＮＴ┃动漫┃多线┃",
+    "name":"ＮＴ动漫多线",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/NT动漫.js"
     },
     {
     "key":"csp_Dm84",
-    "name":"┃巴士┃动漫┃多线┃",
+    "name":"巴士动漫多线",
     "type":3,
     "api":"csp_Dm84",
     "searchable":1,
@@ -628,49 +628,49 @@
     },
     {
     "key":"drpy_js_怡萱动漫",
-    "name":"┃怡萱┃动漫┃多线┃",
+    "name":"怡萱动漫多线",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/怡萱动漫.js"
     },
     {
     "key":"drpy_js_AnFuns",
-    "name":"┃ＡＮ┃动漫┃多线┃",
+    "name":"ＡＮ动漫多线",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/AnFuns.js"
     },
     {
     "key":"芒果",
-    "name":"┃芒果┃官方┃解析┃",
+    "name":"芒果官方解析",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/芒果.js"
     },
     {
     "key":"爱奇异",
-    "name":"┃奇异┃官方┃解析┃",
+    "name":"奇异官方解析",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/爱奇艺.js"
     },
     {
     "key":"优酷",
-    "name":"┃优酷┃官方┃解析┃",
+    "name":"优酷官方解析",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/优酷.js"
     },
     {
     "key":"腾讯",
-    "name":"┃腾讯┃官方┃解析┃",
+    "name":"腾讯官方解析",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/腾讯.js"
     },
     {
     "key":"csp_SP33",
-    "name":"┃叁叁┃官方┃解析┃",
+    "name":"叁叁官方解析",
     "type":3,
     "api":"csp_SP33",
     "searchable":1,
@@ -680,7 +680,7 @@
     },
     {
     "key":"红牛资源",
-    "name":"┃红牛┃采集┃磁力┃",
+    "name":"红牛采集磁力",
     "type":1,
     "api":"https://www.hongniuzy2.com/api.php/provide/vod/",
     "searchable":1,
@@ -689,7 +689,7 @@
     },
     {
     "key":"极速资源",
-    "name":"┃极速┃采集┃磁力┃",
+    "name":"极速采集磁力",
     "type":1,
     "api":"https://jszyapi.com/api.php/provide/vod/",
     "searchable":1,
@@ -697,19 +697,19 @@
     "categories":["内地剧","韩剧","日剧","台湾剧","香港剧","马泰剧","欧美剧","恐怖片","动画片","剧情片","战争片","动作片","记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]},
     {
     "key":"快车资源",
-    "name":"┃快车┃采集┃磁力┃",
+    "name":"快车采集磁力",
     "type":1,
     "api":"https://caiji.kczyapi.com/api.php/provide/vod/",
     "searchable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","动画片","纪录片","国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","国产动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
     {
     "key":"量子资源",
-    "name":"┃量子┃采集┃磁力┃",
+    "name":"量子采集磁力",
     "type":1,
     "api":"https://cj.lziapi.com/api.php/provide/vod/",
     "searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
     {
     "key":"非凡资源",
-    "name":"┃非凡┃采集┃磁力┃",
+    "name":"非凡采集磁力",
     "type":1,
     "api":"http://cj.ffzyapi.com/api.php/provide/vod/",
     "searchable":1,
@@ -744,7 +744,7 @@
     },
     {
     "key":"索尼",
-    "name":"┃索尼┃影视┃磁力┃",
+    "name":"索尼影视磁力",
     "type":1,
     "api":"https://suoniapi.com/api.php/provide/vod/?ac=list",
     "playUrl":"",
@@ -778,7 +778,7 @@
     ]
     },
     {"key":"七新",
-    "name":"┃七新┃影视┃磁力┃",
+    "name":"七新影视磁力",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
@@ -812,7 +812,7 @@
     },
     {
     "key":"奈落",
-    "name":"┃奈落┃影视┃磁力┃",
+    "name":"奈落影视磁力",
     "type":3,"api":"csp_XBPQ",
     "ext":{"线路数组":"data-dropdown-value=&&</div>",
     "播放数组":"<divclass=\"scroll-content&&</div>",
@@ -822,14 +822,14 @@
     }},
     {
     "key":"drpy_js_6V[新版]",
-    "name":"┃新六┃影视┃磁力┃",
+    "name":"新六影视磁力",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/6V[新版].js"
     },
     {
     "key":"csp_XYQHiker_电影港磁力",
-    "name":"┃影港┃影视┃磁力┃",
+    "name":"影港影视磁力",
     "type":3,
     "api":"csp_XYQHiker",
     "searchable":1,
@@ -838,7 +838,7 @@
     },
     {
     "key":"csp_Mp4Mov",
-    "name":"┃Ｍ４┃电影┃磁力┃",
+    "name":"Ｍ４电影磁力",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_Mp4Mov",
@@ -848,7 +848,7 @@
     },
     {
     "key":"csp_New6v",
-    "name":"┃新６┃影视┃磁力┃",
+    "name":"新６影视磁力",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_New6v",
@@ -859,7 +859,7 @@
     },
     {
     "key":"csp_SeedHub",
-    "name":"┃ＳＥ┃塞尔┃磁力┃",
+    "name":"ＳＥ塞尔磁力",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_SeedHub",
@@ -870,7 +870,7 @@
     },
     {
     "key":"csp_MeijuTT",
-    "name":"┃美剧┃天堂┃磁力┃",
+    "name":"美剧天堂磁力",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_MeijuTT",
@@ -881,7 +881,7 @@
     },
     {
     "key":"csp_MeijuMi",
-    "name":"┃美剧┃迷啊┃磁力┃",
+    "name":"美剧迷啊磁力",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/cili.jar",
     "type":3,
     "api":"csp_MeijuMi",
@@ -892,7 +892,7 @@
     },
     {
     "key":"yinfans",
-    "name":"┃磁力┃音范┃磁力┃",
+    "name":"磁力音范磁力",
     "type":3,
     "api":"csp_XPath",
     "searchable":1,
@@ -903,7 +903,7 @@
     },
     {
     "key":"bt0",
-    "name":"┃磁力┃ＢＴ┃磁力┃",
+    "name":"磁力ＢＴ磁力",
     "type":3,
     "playerType":3,
     "api":"csp_Bt0",
@@ -915,7 +915,7 @@
     },
     {
     "key":"csp_量子",
-    "name":"┃量子┃资源┃磁力┃",
+    "name":"量子资源磁力",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
@@ -926,7 +926,7 @@
     },
     {
     "key":"New6v",
-    "name":"┃６Ｖ┃影视┃磁力┃",
+    "name":"６Ｖ影视磁力",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
     "type":3,
     "api":"csp_New6v",
@@ -937,7 +937,7 @@
     },
     {
     "key":"美剧迷",
-    "name":"┃磁力┃美剧┃搜索┃",
+    "name":"磁力美剧搜索",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
     "type":3,
     "api":"csp_MeijuMi",
@@ -947,7 +947,7 @@
     },
     {
     "key":"迅雷吧",
-    "name":"┃磁力┃迅雷┃搜索┃",
+    "name":"磁力迅雷搜索",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
     "type":3,
     "api":"csp_Xunlei8",
@@ -957,7 +957,7 @@
     },
     {
     "key":"Mp4电影",
-    "name":"┃磁力┃电影┃搜索┃",
+    "name":"磁力电影搜索",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
     "type":3,
     "api":"csp_Mp4Mov",
@@ -967,7 +967,7 @@
     },
     {
     "key":"SeedHub",
-    "name":"┃磁力┃ＳＨ┃搜索┃",
+    "name":"磁力ＳＨ搜索",
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
     "type":3,
     "api":"csp_SeedHub",
@@ -977,7 +977,7 @@
     },
     {
     "key":"高清MP4",
-    "name":"┃磁力┃高清┃搜索┃",
+    "name":"磁力高清搜索",
     "type":3,
     "api":"csp_XYQHiker",
     "searchable":1,
@@ -987,7 +987,7 @@
     },
     {
     "key":"酷吧电影",
-    "name":"┃磁力┃酷吧┃电影┃",
+    "name":"磁力酷吧电影",
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
     "type":3,
     "api":"csp_KubaCL",
@@ -997,7 +997,7 @@
     },
     {
     "key":"Tudou",
-    "name":"┃土豆┃阿里┃搜索┃",
+    "name":"土豆阿里搜索",
     "playerType":1,
     "type":3,
     "api":"csp_Tudou",
@@ -1008,7 +1008,7 @@
     },
     {
     "key":"夸搜",
-    "name":"┃夸搜┃狸夸┃饭硬┃",
+    "name":"夸搜狸夸饭硬",
     "type":3,
     "api":"csp_PanSearch",
     "jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
@@ -1023,7 +1023,7 @@
     },
     {
     "key":"YiSo",
-    "name":"┃易搜┃阿狸┃饭硬┃",
+    "name":"易搜阿狸饭硬",
     "type":3,
     "api":"csp_YiSo",
     "searchable":1,
@@ -1036,7 +1036,7 @@
     },
     {
     "key":"PanSou",
-    "name":"┃盘搜┃阿狸┃饭硬┃",
+    "name":"盘搜阿狸饭硬",
     "type":3,
     "api":"csp_PanSou",
     "searchable":1,
@@ -1049,7 +1049,7 @@
     },
     {
     "key":"PanSearch",
-    "name":"┃盘塞┃阿狸┃饭硬┃",
+    "name":"盘塞阿狸饭硬",
     "type":3,
     "api":"csp_PanSearch",
     "searchable":1,
@@ -1062,7 +1062,7 @@
     },
     {
     "key":"夸克土豆弹幕",
-    "name":"┃土豆┃弹幕┃影视┃",
+    "name":"土豆弹幕影视",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1078,7 +1078,7 @@
     },
     {
     "key":"夸克多多弹幕",
-    "name":"┃多多┃弹幕┃影视┃",
+    "name":"多多弹幕影视",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1094,7 +1094,7 @@
     },
     {
     "key":"夸克蜡笔弹幕",
-    "name":"┃蜡笔┃弹幕┃影视┃",
+    "name":"蜡笔弹幕影视",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1110,7 +1110,7 @@
     },
     {
     "key":"夸克至臻弹幕",
-    "name":"┃至臻┃弹幕┃影视┃",
+    "name":"至臻弹幕影视",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1127,7 +1127,7 @@
     },
     {
     "key":"夸克奥秘弹幕",
-    "name":"┃奥秘┃弹幕┃影视┃",
+    "name":"奥秘弹幕影视",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1144,7 +1144,7 @@
     },
     {
     "key":"夸克云星弹幕",
-    "name":"┃云星┃弹幕┃影视┃",
+    "name":"云星弹幕影视",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1160,7 +1160,7 @@
     },
     {
     "key":"夸克木偶弹幕",
-    "name":"┃木偶┃弹幕┃影视┃",
+    "name":"木偶弹幕影视",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1177,7 +1177,7 @@
     },
     {
     "key":"夸克团长弹幕",
-    "name":"┃团长┃弹幕┃影视┃",
+    "name":"团长弹幕影视",
     "type":3,
     "api":"csp_Tzfile",
     "searchable":1,
@@ -1192,7 +1192,7 @@
     },
     {
     "key":"搜索弹幕",
-    "name":"┃弹幕┃搜索┃影视┃",
+    "name":"弹幕搜索影视",
     "type":3,
     "api":"csp_PanSearch",
     "searchable":1,
@@ -1204,7 +1204,7 @@
     },
     {
     "key":"七夜弹幕",
-    "name":"┃弹幕┃七夜┃影视┃",
+    "name":"弹幕七夜影视",
     "type":3,
     "api":"csp_Dovx",
     "searchable":1,
@@ -1216,7 +1216,7 @@
     },
     {
     "key":"云云弹幕",
-    "name":"┃弹幕┃云云┃影视┃",
+    "name":"弹幕云云影视",
     "type":3,"api":"csp_Upys",
     "searchable":1,
     "filterable":0,
@@ -1227,7 +1227,7 @@
     },
     {
     "key":"云搜弹幕",
-    "name":"┃弹幕┃云搜┃影视┃",
+    "name":"弹幕云搜影视",
     "type":3,
     "api":"csp_UpYun",
     "searchable":1,
@@ -1238,7 +1238,7 @@
     },
     {
     "key":"盘搜弹幕",
-    "name":"┃弹幕┃盘搜┃影视┃",
+    "name":"弹幕盘搜影视",
     "type":3,
     "api":"csp_PanSou",
     "searchable":1,
@@ -1250,7 +1250,7 @@
     },
     {
     "key":"易搜弹幕",
-    "name":"┃弹幕┃易搜┃搜索┃",
+    "name":"弹幕易搜搜索",
     "type":3,
     "api":"csp_YiSo",
     "searchable":1,
@@ -1262,7 +1262,7 @@
     },
     {
     "key":"云盘弹幕",
-    "name":"┃弹幕┃云盘┃搜索┃",
+    "name":"弹幕云盘搜索",
     "type":3,
     "api":"csp_Yunpan4k",
     "searchable":1,
@@ -1273,7 +1273,7 @@
     },
     {
     "key":"小纸条弹幕",
-    "name":"┃弹幕┃纸条┃搜索┃",
+    "name":"弹幕纸条搜索",
     "type":3,
     "api":"csp_XiaoZhiTiao",
     "searchable":1,
@@ -1284,7 +1284,7 @@
     },
     {
     "key":"Gitcafe",
-    "name":"┃云盘┃纸条┃搜索┃",
+    "name":"云盘纸条搜索",
     "type":3,
     "api":"csp_Gitcafe",
     "searchable":1,
@@ -1294,7 +1294,7 @@
     },
     {
     "key":"夸克",
-    "name":"┃夸克┃４Ｋ┃搜索┃",
+    "name":"夸克４Ｋ搜索",
     "type":3,
     "api":"csp_QuPanSou",
     "jar":"http://小盒酷玩.fun:72/禁止贩卖",
@@ -1308,7 +1308,7 @@
     },
     {
     "key":"夸克玩偶弹幕",
-    "name":"┃夸克┃玩偶┃搜索┃",
+    "name":"夸克玩偶搜索",
     "type":3,
     "api":"csp_Wobg",
     "searchable":1,
@@ -1322,7 +1322,7 @@
     },
     {
     "key":"夸克开心弹幕",
-    "name":"┃夸克┃开心┃搜索┃",
+    "name":"夸克开心搜索",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1335,7 +1335,7 @@
     },
     {
     "key":"夸克团长弹幕",
-    "name":"┃夸克┃团长┃搜索┃",
+    "name":"夸克团长搜索",
     "type":3,
     "api":"csp_Tzfile",
     "searchable":1,
@@ -1348,7 +1348,7 @@
     },
     {
     "key":"夸克盘搜弹幕",
-    "name":"┃夸克┃盘搜┃搜索┃",
+    "name":"夸克盘搜搜索",
     "type":3,"api":"csp_Qkpanso",
     "searchable":1,
     "filterable":1,
@@ -1359,7 +1359,7 @@
     },
     {
     "key":"影视车弹幕",
-    "name":"┃夸克┃影车┃搜索┃",
+    "name":"夸克影车搜索",
     "type":3,"api":"csp_Wogg",
     "searchable":1,
     "quickSearch":1,
@@ -1371,7 +1371,7 @@
     },
     {
     "key":"趣盘搜弹幕",
-    "name":"┃夸克┃趣盘┃搜索┃",
+    "name":"夸克趣盘搜索",
     "type":3,"api":"csp_QuPanSou",
     "searchable":1,
     "quickSearch":1,
@@ -1382,7 +1382,7 @@
     },
     {
     "key":"六趣资源",
-    "name":"┃六趣┃资源┃搜索┃",
+    "name":"六趣资源搜索",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1398,7 +1398,7 @@
     },
     {
     "key":"玩偶哥哥",
-    "name":"┃玩偶┃哥哥┃摸鱼┃",
+    "name":"玩偶哥哥摸鱼",
     "type":3,
     "api":"csp_WoGG",
     "jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
@@ -1414,7 +1414,7 @@
     },
     {
     "key":"蜡笔小新",
-    "name":"┃蜡笔┃小新┃摸鱼┃",
+    "name":"蜡笔小新摸鱼",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1431,7 +1431,7 @@
     },
     {
     "key":"多多影音",
-    "name":"┃多多┃影音┃摸鱼┃",
+    "name":"多多影音摸鱼",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1448,7 +1448,7 @@
     },
     {
     "key":"至臻影视",
-    "name":"┃至臻┃影视┃摸鱼┃",
+    "name":"至臻影视摸鱼",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1465,7 +1465,7 @@
     },
     {
     "key":"木偶哥哥",
-    "name":"┃木偶┃哥哥┃摸鱼┃",
+    "name":"木偶哥哥摸鱼",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1482,7 +1482,7 @@
     },
     {
     "key":"六趣资源",
-    "name":"┃六趣┃资源┃摸鱼┃",
+    "name":"六趣资源摸鱼",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1499,7 +1499,7 @@
     },
     {
     "key":"云星日记",
-    "name":"┃云星┃日记┃摸鱼┃",
+    "name":"云星日记摸鱼",
     "type":3,
     "api":"csp_Wobg",
     "quickSearch":1,
@@ -1516,7 +1516,7 @@
     },
     {
     "key":"小鱼内测1",
-    "name":"┃明月┃清风┃摸鱼┃",
+    "name":"明月清风摸鱼",
     "playerType":1,
     "type":3,
     "api":"csp_AppYsV2",
@@ -1528,7 +1528,7 @@
     },
     {
     "key":"小鱼内测2",
-    "name":"┃浅墨┃惜晨┃摸鱼┃",
+    "name":"浅墨惜晨摸鱼",
     "playerType":1,
     "type":3,
     "api":"csp_AppYsV2",
@@ -1540,7 +1540,7 @@
     },
     {
     "key":"荐片影视",
-    "name":"┃荐片┃影视┃摸鱼┃",
+    "name":"荐片影视摸鱼",
     "type":3,
     "api":"csp_Jianpian",
     "searchable":1,
@@ -1554,7 +1554,7 @@
     },
     {
     "key":"趣盘夸克",
-    "name":"┃趣搜┃夸克┃摸鱼┃",
+    "name":"趣搜夸克摸鱼",
     "type":3,
     "api":"csp_QuPanSou",
     "searchable":1,
@@ -1567,7 +1567,7 @@
     },
     {
     "key":"夸克资源",
-    "name":"┃夸克┃搜索┃摸鱼┃",
+    "name":"夸克搜索摸鱼",
     "type":3,
     "api":"csp_Qkpanso",
     "jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
@@ -1581,7 +1581,7 @@
     },
     {
     "key":"米搜资源",
-    "name":"┃米搜┃资源┃摸鱼┃",
+    "name":"米搜资源摸鱼",
     "type":3,
     "api":"csp_MIPanSo",
     "jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
@@ -1595,7 +1595,7 @@
     },
     {
     "key":"抠搜资源",
-    "name":"┃抠搜┃资源┃摸鱼┃",
+    "name":"抠搜资源摸鱼",
     "type":3,
     "api":"csp_KkSs",
     "jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",
@@ -1609,7 +1609,7 @@
     },
     {
     "key":"夸搜资源",
-    "name":"┃夸搜┃资源┃摸鱼┃",
+    "name":"夸搜资源摸鱼",
     "type":3,
     "api":"csp_PanSearch",
     "jar":"https://gitee.com/Qingttkx/xiaoyugan/raw/master/ys/jar/fan.jar",

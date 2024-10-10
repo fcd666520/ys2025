@@ -252,8 +252,7 @@
     "filterable":1,
     "ext":{
     "danmu":true
-    },
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
+    }
     },
     {
     "key":"哔嘀弹幕",
@@ -290,9 +289,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{
-    "danmu":true
-    },
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700"
+    "danmu":true}
     },
     {
     "key":"文采",

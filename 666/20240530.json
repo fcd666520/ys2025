@@ -228,7 +228,8 @@
     "filterable":1,
     "ext":{
     "danmu":true
-    }
+    },
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
     },
     {
     "key":"哔嘀弹幕",
@@ -274,7 +275,9 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{
-    "danmu":true}
+    "danmu":true
+    },
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
     },
     {
     "key":"南瓜弹幕",
@@ -367,7 +370,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{
-    "分类url":"https://www.freeok.vip/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
+    "分类url":"https://www.renxiuhua.com/vod-show/{cateId}-{area}-------{catePg}---{year}.html;;ar1",
     "分类":"电影&剧集&动漫&综艺&短剧&少儿",
     "分类值":"1&2&3&4&12&5",
     "副标题":"<divclass=\"module-item-note\">&&</div>",

@@ -32,6 +32,19 @@
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js//网盘配置.json"
     },
     {
+    "key":"Panta",
+    "name":"移动云盘影视",
+    "type":3,
+    "api":"csp_Panta",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/pg.jar",
+    "changeable":2,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
+    "timeout":60
+    },
+    {
     "key":"juying",
     "name":"影视聚影聚搜",
     "type":3,
@@ -327,19 +340,6 @@
     "ext":"https://www.kkys02.com"
     },
     {
-    "key":"Panta",
-    "name":"移动云盘影视",
-    "type":3,
-    "api":"csp_Panta",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/pg.jar",
-    "changeable":2,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
-    "timeout":60
-    },
-    {
     "key":"看韩剧",
     "name":"爱看韩剧影视",
     "type":3,
@@ -359,7 +359,7 @@
     "分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"
     }
     },
-    {
+    /*{
     "key":"Freeok",
     "name":"ＦＲ多线影视",
     "jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar",
@@ -380,7 +380,7 @@
     "主演":"主演：&&</div>",
     "简介":"<p>&&</p>"
     }
-    },
+    },*/
     {
     "key":"drpy_js_达达龟",
     "name":"达龟影院ＪＳ",

@@ -32,6 +32,16 @@
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js//网盘配置.json"
     },
     {
+    "key":"csp_YGP",
+    "name":"叨观预告更新",
+    "type":3,
+    "api":"csp_YGP",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "changeable":0
+    },
+    {
     "key":"Panta",
     "name":"移动云盘影视",
     "type":3,
@@ -100,16 +110,6 @@
     "https://mihdr.top"
     ]
     }
-    },
-    {
-    "key":"csp_YGP",
-    "name":"叨观预告更新",
-    "type":3,
-    "api":"csp_YGP",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "changeable":0
     },
     {
     "key":"摸鱼瓜子",

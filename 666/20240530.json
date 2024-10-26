@@ -42,6 +42,16 @@
     "changeable":0
     },
     {
+      "key": "alllive",
+      "name": "全聚合２Ｋ直播",
+      "type": 3,
+      "api": "csp_Alllive",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
     "key":"Panta",
     "name":"移动云盘影视",
     "type":3,
@@ -112,10 +122,20 @@
     }
     },
     {
+      "key": "南瓜",
+      "name": "南瓜直连影视",
+      "type": 3,
+      "api": "csp_Nangua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10
+    },
+    {
     "key":"摸鱼瓜子",
     "name":"嗑嗑瓜子影视",
     "type":3,
-    "api":"http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+    "api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js",
     "filterable":1,
     "order_num":0,
     "changeable":0,
@@ -125,8 +145,8 @@
     "key":"醉挽清风",
     "name":"醉挽清风影视",
     "type":3,
-    "api":"http://我不是.摸鱼儿.top/json/js/drpy.min.js",
-    "jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php",
+    "api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
@@ -138,7 +158,7 @@
     "name":"糯米秒播影视",
     "type":3,
     "api":"csp_Nmyswv",
-    "jar":"http://我不是.摸鱼儿.top/by/jar/moyu.php",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php",
     "timeout":15,
     "searchable":1,
     "quickSearch":1,

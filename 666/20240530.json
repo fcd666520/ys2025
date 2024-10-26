@@ -43,7 +43,7 @@
     },
     {
       "key": "alllive",
-      "name": "全聚合２Ｋ直播",
+      "name": "聚合２Ｋ直播",
       "type": 3,
       "api": "csp_Alllive",
       "playerType": 2,

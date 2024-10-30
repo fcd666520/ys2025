@@ -107,6 +107,35 @@
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
     },
     {
+      "key": "小马",
+      "name": "小马蓝光纯净",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "ext": "https://mas.szyyds.cn/api.php/app/"
+    },
+    {
+      "key": "原创",
+      "name": "原创不卡纯净",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "五五影视",
+      "name": "呜呜蓝光无广",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=55"
+    },
+    {
     "key":"csp_Duopan",
     "name":"肥猫蜡笔影视",
     "type":3,
@@ -818,6 +847,16 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
+    },
+    {
+      "key": "SeedHub",
+      "name": "ＳＥ电影磁力",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
     "key":"Tudou",

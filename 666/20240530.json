@@ -42,6 +42,16 @@
     "changeable":0
     },
     {
+      "key": "直播转点播",
+      "name": "IPV6电视直播",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.com/api/moyulive.js",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
+    },
+    {
     "key":"alllive",
     "name":"聚合２Ｋ直播",
     "type":3,

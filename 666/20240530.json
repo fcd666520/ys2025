@@ -43,7 +43,7 @@
     },
     {
       "key": "直播转点播",
-      "name": "IPV6电视直播",
+      "name": "摸鱼ＩＰＶ６",
       "type": 3,
       "api": "http://我不是.摸鱼儿.com/api/moyulive.js",
       "searchable": 0,

@@ -137,6 +137,7 @@
     {
     "key":"csp_Jpyy",
     "name":"肥猫金牌影视",
+    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt",
     "type":3,
     "api":"csp_Jpyy"
     },
@@ -144,6 +145,7 @@
     "key":"csp_Netfixtv",
     "name":"肥猫至臻影视",
     "type":3,
+    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt",
     "api":"csp_Duopan",
     "filterable":1,
     "ext":{
@@ -163,6 +165,7 @@
     {
     "key":"csp_AppRZ",
     "name":"肥猫忍者影视",
+    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt",
     "type":3,
     "api":"csp_AppRZ",
     "ext":"http://rzys.xyz/"
@@ -170,6 +173,7 @@
     {
     "key":"csp_Nongm",
     "name":"肥猫农民影视",
+    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731941705606/PandaQ241118.txt",
     "type":3,
     "api":"csp_Nongm",
     "ext":"https://wwgz.cn"

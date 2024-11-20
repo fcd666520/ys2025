@@ -42,14 +42,14 @@
     "changeable":0
     },
     {
-      "key": "直播转点播",
-      "name": "摸鱼ＩＰＶ６",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.com/api/moyulive.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
+    "key":"直播转点播",
+    "name":"摸鱼ＩＰＶ６",
+    "type":3,
+    "api":"http://我不是.摸鱼儿.com/api/moyulive.js",
+    "searchable":0,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
     },
     {
     "key":"alllive",
@@ -117,22 +117,62 @@
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
     },
     {
-      "key": "小马",
-      "name": "小马蓝光纯净",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "https://mas.szyyds.cn/api.php/app/"
+    "key":"小马",
+    "name":"小马蓝光纯净",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "ext":"https://mas.szyyds.cn/api.php/app/"
     },
     {
-      "key": "五五影视",
-      "name": "呜呜蓝光无广",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=55"
+    "key":"五五影视",
+    "name":"呜呜蓝光无广",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=55"
+    },
+    {
+    "key":"csp_Jpyy",
+    "name":"肥猫金牌影视",
+    "type":3,
+    "api":"csp_Jpyy"
+    },
+    {
+    "key":"csp_Netfixtv",
+    "name":"肥猫至臻影视",
+    "type":3,
+    "api":"csp_Duopan",
+    "filterable":1,
+    "ext":{
+    "site_urls":[
+    "https://xiaomiai.site"
+    ],
+    "url_key":"Netfixtv",
+    "token":"",
+    "ucCookie":"",
+    "quarkCookie":"",
+    "threadinfo":{
+    "chunksize":450,
+    "threads":10
+    }
+    }
+    },
+    {
+    "key":"csp_AppRZ",
+    "name":"肥猫忍者影视",
+    "type":3,
+    "api":"csp_AppRZ",
+    "ext":"http://rzys.xyz/"
+    },
+    {
+    "key":"csp_Nongm",
+    "name":"肥猫农民影视",
+    "type":3,
+    "api":"csp_Nongm",
+    "ext":"https://wwgz.cn"
     },
     {
     "key":"csp_Duopan",
@@ -828,14 +868,14 @@
     "filterable":1
     },
     {
-      "key": "SeedHub",
-      "name": "ＳＥ电影磁力",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+    "key":"SeedHub",
+    "name":"ＳＥ电影磁力",
+    "type":3,
+    "api":"csp_SeedHub",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
     },
     {
     "key":"Tudou",

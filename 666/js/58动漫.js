@@ -13,7 +13,7 @@ var rule = {
     title:'58动漫',
     // 模板:'首图2',
     模板:'vfed',
-    host:'http://www.ting38.com',
+    host:'http://m.ting38.com/',
     // url:'/ting/fyclass-fypage.html',
     url:'/search.php?page=fypage&searchtype=5&tid=fyclassfyfilter',
 	filterable:1,//是否启用分类筛选,

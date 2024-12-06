@@ -182,7 +182,7 @@
     ]
     }
     },
- {
+    {
     "key":"风中知秋",
     "name":"风中知秋纯净",
     "type":3,
@@ -255,17 +255,6 @@
     "filterable":1
     },
     {
-    "key":"追剧影视",
-    "name":"追剧潇洒影视",
-    "type":3,
-    "api":"csp_AppZJ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    //"ext":"http://z.kzjtv.com/"
-    "ext":"https://zjuys.com/"
-    },
-    {
     "key":"天天影视",
     "name":"天天潇洒影视",
     "type":3,
@@ -335,7 +324,7 @@
     "quickSearch":1,
     "filterable":1,
     "ext":{
-    "site":"https://www.yjys05.com/",
+    "site":"https://www.xlys01.com",
     "danmu":true
     },
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
@@ -376,14 +365,16 @@
     },
     {
     "key":"南瓜弹幕",
-    "name":"南瓜弹幕影视",
+    "name":"南瓜蓝光弹幕",
     "type":3,
     "api":"csp_Nangua",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":{"danmu":true},
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
+    "ext":{
+    "danmu":true
+    }
     },
     {
     "key":"六六六",

@@ -42,6 +42,19 @@
     "changeable":0
     },
     {
+    "key":"南瓜弹幕",
+    "name":"南瓜导航推荐",
+    "type":3,
+    "api":"csp_Nangua",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":{
+    "danmu":true
+    }
+    },
+    {
     "key":"直播转点播",
     "name":"摸鱼ＩＰＶ６",
     "type":3,
@@ -116,6 +129,113 @@
     "style":{"type":"list"},
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
     },
+    {
+      "key": "pgys",
+      "name": "喵影苹果影视",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
+    },
+    {
+      "key": "shys",
+      "name": "骚火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    },
+    {
+      "key": "gzys",
+      "name": "瓜子┃影视",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    },
+    {
+      "key": "free",
+      "name": "Free┃影视",
+      "type": 3,
+      "api": "csp_FreeOK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    },
+        {
+      "key": "rzys",
+      "name": "忍者┃影视",
+      "type": 3,
+      "api": "csp_AppRZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2,
+      "ext": "http://rzys.xyz/",
+      "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
+    },
+    {
+      "key": "Kkys",
+      "name": "快看┃影视",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "sbys",
+      "name": "素白┃影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=sbys",
+      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "Qxys",
+      "name": "七新┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=qxys"
+    },
+    {
+      "key": "xcys",
+      "name": "星辰┃影视",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=xcys"
+    },
+    {
+      "key": "jpys",
+      "name": "荐片┃影视",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=jpys"
+    },
+    
     {
     "key":"小马",
     "name":"小马蓝光纯净",
@@ -364,50 +484,6 @@
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
     },
     {
-    "key":"南瓜弹幕",
-    "name":"南瓜蓝光弹幕",
-    "type":3,
-    "api":"csp_Nangua",
-    "jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{
-    "danmu":true
-    }
-    },
-    {
-    "key":"南瓜影视",
-    "name":"南瓜｜APP",
-    "type":3,
-    "api":"csp_Nangua",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },
-    {
-    "key":"六六六",
-    "name":"六六潇洒影视",
-    "playerType":1,
-    "type":3,
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://122.228.85.203:1000/api.php/app/"
-    },
-    {
-    "key":"叁六零弹幕",
-    "name":"叁六弹幕影视",
-    "type":3,
-    "api":"csp_Sp360",
-    "searchable":1,
-    "filterable":1,
-    "changeable":1,
-    "ext":{"danmu":true},
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
-    },
-    {
     "key":"可可",
     "name":"可可多线影视",
     "type":3,
@@ -416,19 +492,12 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "jar":"http://1.95.79.193/PandaQ241006.jar",
+    "jar":"https://img2.gelonghui.com/library/f6908-5fd61601-427f-486f-b4c1-0a89cfbb9abd.txt;md5;f69087df20933692fccd2dd795095f5b",
     "ext":"https://www.kkys02.com"
     },
     {
-    "key":"drpy_js_蓝光影院",
-    "name":"蓝光星标影视",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/蓝光影院.js"
-    },
-    {
     "key":"drpy_js_在线之家",
-    "name":"在线星标影视",
+    "name":"在线之家外剧",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/在线之家.js"
@@ -439,14 +508,6 @@
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/看了么.js"
-    },
-    {
-    "key":"酷云影视",
-    "name":"酷云星标影视",
-    "type":3,
-    "playerType":"2",
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/酷云影视.js"
     },
     {
     "key":"火狐",
@@ -569,13 +630,6 @@
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/怡萱动漫.js"
-    },
-    {
-    "key":"drpy_js_AnFuns",
-    "name":"ＡＮ多线动漫",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/AnFuns.js"
     },
     {
     "key":"芒果",

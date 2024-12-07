@@ -20,6 +20,12 @@
     "api":"csp_LocalFile"
     },
     {
+    "key":"提醒3",
+    "name":"请在设置中清理缓存",
+    "type":3,
+    "api":"csp_LocalFile"
+    },
+    {
     "key":"本地",
     "name":"本地文件视频",
     "type":3,

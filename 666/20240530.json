@@ -5,6 +5,7 @@
     "key":"本地",
     "name":"本地文件视频",
     "type":3,
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
     "api":"csp_LocalFile"
     },
     {

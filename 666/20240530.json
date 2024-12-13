@@ -30,7 +30,7 @@
     "name":"播放失败请更换线路",
     "type":3,
     "api":"12"
-    },   
+    },
     {
     "key":"提醒2",
     "name":"不定时更新影视线路",
@@ -189,6 +189,33 @@
     "quickSearch":1,
     "filterable":0,
     "ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
+    },
+    {
+    "key":"Wexduanjuvip",
+    "name":"放牛短剧精品",
+    "type":3,
+    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733759827466/wex.txt",
+    "api":"csp_Wexduanjuvip",
+    "searchable":1,
+    "changeable":1
+    },
+    {
+    "key":"Wexduanjuvop",
+    "name":"放牛短剧秒播",
+    "type":3,
+    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733759827466/wex.txt",
+    "api":"csp_Wexduanjuvop",
+    "searchable":1,
+    "changeable":1
+    },
+    {
+    "key":"Wexkoukou",
+    "name":"放牛扣扣４Ｋ",
+    "type":3,
+    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733759827466/wex.txt",
+    "api":"csp_Wexkoukou",
+    "searchable":1,
+    "changeable":1
     },
     {
     "key":"alllive",
@@ -350,7 +377,7 @@
     "changeable":1,
     "ext":"http://www.meowtv.cn/js/meow.php?file=jpys"
     },
-{
+    {
     "key":"风中知秋",
     "name":"摸鱼知秋纯净",
     "type":3,
@@ -1729,7 +1756,13 @@
     }
     }
     },
-
+    {"name":"爱坤","type":0,"url":"https://www.ikdmjx.com/?url=",
+    "ext":{
+    "header":{
+    "user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+    }
+    }
+    },
     {"name":"看看","type":0,"url":"https://jx.m3u8.pw/?url="},
     {"name":"云加","type":0,"url":"https://im1907.top/?jx="},
     {"name":"巍峨","type":0,"url":"https://jx.we-vip.com/?url="},

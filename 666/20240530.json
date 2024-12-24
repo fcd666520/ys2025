@@ -84,90 +84,7 @@
     "filterable":1,
     "changeable":0
     },
-    {
-    "key":"酷影视",
-    "name":"潇洒酷影影视",
-    "type":3,
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://www.tvkuys.xyz/api.php/app/"
-    },
-    {
-    "key":"天天影视",
-    "name":"潇洒天天影视",
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-    "type":3,
-    "api":"csp_AppTT",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },
-    {
-    "key":"热播影视",
-    "name":"潇洒热播影视",
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-    "type":3,
-    "api":"csp_AppRB",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },
-    {
-    "key":"洽洽影视",
-    "name":"潇洒洽洽影视",
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-    "type":3,
-    "api":"csp_AppGZ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },
-    {
-    "key":"追梦影视",
-    "name":"潇洒追梦影视",
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-    "type":3,
-    "api":"csp_App",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"KhYJ00ye42lrgMpNiF+rOvz59ga1R1FQv2eU9xm2Iu1VrOOAQhMKd/5Ef8cogkk0Y3RJ20zdTsh6uytEQhi5H+x3q9ykk86fAlKxZsD4JSOVC5vqBIHXLUdbmRnBIXWxcZBIXFtvDsnRlRrdhe15op6nVQPj3jTftN2v9+IDRS2auZS8W1hoOL2jvcoiUEzLToN7FV14amT6puaPWMkj34WXPOALOvIkDM57pLfeccPg9oZFJOvob2S7NE55hsAbY0y7l63JB0ukoDmLq9q4YRSh/M6i0i8XMVk8bLFggs+R73Ld+p5bipdnmmrRg3qMu5dVCFuyfllyKl0ZJddNw4AFQExqghU1xo0RpCm1FgL+FmBLMdYCxM+fNYaF6blwRnzcfPct0XtmXoB9"
-    },
-    {
-    "key":"真心影视",
-    "name":"潇洒真心影视",
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-    "type":3,
-    "api":"csp_WebGZ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },
-    {
-    "key":"机器人",
-    "name":"潇洒机器影视",
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-    "type":3,
-    "api":"csp_Ikanbot",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },
-    {
-    "key":"奇趣影视",
-    "name":"潇洒奇趣影视",
-    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/XYQHiker/奇趣影视.json"
-    },
-    {
+   {
     "key":"南瓜弹幕",
     "name":"南瓜导航推荐",
     "type":3,
@@ -213,6 +130,7 @@
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
     "timeout":60
     },
+
     {
     "key":"juying",
     "name":"聚合搜索影视",
@@ -223,15 +141,7 @@
     "filterable":1,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/聚影搜索.js"
     },
-    {
-    "key":"采集之王",
-    "name":"潇洒采集影视",
-    "type":3,
-    "api":"https://gitlab.com/fcd666520/TVBox/-/raw/main/JS/drpy2.min.js",
-    "searchable":1,
-    "quickSearch":1,
-    "ext":"https://gitlab.com/fcd666520/TVBox/-/raw/main/JS/采集之王.js?type=url&params=https://gitlab.com/fcd666520/2024looo/-/raw/master/json/采集静态.json$1$1"
-    },
+
     {
     "key":"玩偶影视",
     "name":"星标阿里影视",
@@ -254,6 +164,109 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","share":""},
     "style":{"type":"list"},
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
+    },
+    {
+    "key":"采集之王",
+    "name":"潇洒采集影视",
+    "type":3,
+    "api":"https://gitlab.com/fcd666520/TVBox/-/raw/main/JS/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "ext":"https://gitlab.com/fcd666520/TVBox/-/raw/main/JS/采集之王.js?type=url&params=https://gitlab.com/fcd666520/2024looo/-/raw/master/json/采集静态.json$1$1"
+    },
+    {
+    "key":"酷影视",
+    "name":"潇洒酷影影视",
+    "type":3,
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+    "api":"csp_AppYsV2",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://www.tvkuys.xyz/api.php/app/"
+    },
+    {
+    "key":"天天影视",
+    "name":"潇洒天天影视",
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+    "type":3,
+    "api":"csp_AppTT",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
+    {
+    "key":"热播影视",
+    "name":"潇洒热播影视",
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+    "type":3,
+    "api":"csp_AppRB",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
+    {
+    "key":"洽洽影视",
+    "name":"潇洒洽洽影视",
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+    "type":3,
+    "api":"csp_AppGZ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
+    {
+      "key": "饺子影视",
+      "name": "潇洒饺子影视",
+      "type": 3,
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+
+      "api": "csp_Jiaozi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "金牌影视",
+      "name": "潇洒金牌影视",
+      "type": 3,
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+
+      "api": "csp_WebJP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+    "key":"真心影视",
+    "name":"潇洒真心影视",
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+    "type":3,
+    "api":"csp_WebGZ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
+    {
+    "key":"机器人",
+    "name":"潇洒机器影视",
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+    "type":3,
+    "api":"csp_Ikanbot",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
+    {
+    "key":"奇趣影视",
+    "name":"潇洒奇趣影视",
+    "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+    "type":3,
+    "api":"csp_XYQHiker",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/XYQHiker/奇趣影视.json"
     },
     {
     "key":"pgys",

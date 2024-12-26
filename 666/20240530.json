@@ -3,45 +3,27 @@
     "sites":[
     {
     "key":"提醒3",
-    "name":"长按此按钮清理缓存",
+    "name":"更新时间２０２４年，十二月二十六日更新",
+    "type":3,
+    "api":"03"
+    },
+    {
+    "key":"提醒3",
+    "name":"长按此按钮清理缓存，接口视频源永久免费",
     "type":3,
     "api":"0215643"
     },
     {
-    "key":"提醒461",
-    "name":"接口视频源永久免费",
-    "type":3,
-    "api":"032120"
-    },
-    {
     "key":"提醒111",
-    "name":"请勿在网上购买受骗",
+    "name":"请勿在网上购买受骗，请勿相信视频中广告",
     "type":3,
     "api":"0110"
     },
     {
-    "key":"提醒0",
-    "name":"请勿相信视频中广告",
-    "type":3,
-    "api":"000"
-    },
-    {
     "key":"提醒1",
-    "name":"播放失败请更换线路",
+    "name":"播放失败请更换线路，不定时更新影视线路",
     "type":3,
     "api":"12"
-    },
-    {
-    "key":"提醒2",
-    "name":"不定时更新影视线路",
-    "type":3,
-    "api":"13"
-    },
-    {
-    "key":"提醒3",
-    "name":"更新时间十二丶二四",
-    "type":3,
-    "api":"03"
     },
     {
     "key":"本地",
@@ -129,6 +111,18 @@
     "filterable":0,
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
     "timeout":60
+    },
+    {
+    "key":"hipy_js_爱看机器人[虫]",
+    "name":"道长爱看机器",
+    "type":3,
+    "jar":"https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar",
+    "api":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "order_num":0,
+    "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/爱看机器人[虫].js"
     },
     {
     "key":"juying",

@@ -113,6 +113,30 @@
     "timeout":60
     },
     {
+    "key":"hipy_js_达达龟",
+    "name":"道长达龟影视",
+    "type":3,
+    "jar":"https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar",
+    "api":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "order_num":0,
+    "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/hipy_js_达达龟"
+    },
+    {
+    "key":"樱花动漫[漫]",
+    "name":"道长樱花动漫",
+    "type":3,
+    "jar":"https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar",
+    "api":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "order_num":0,
+    "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/樱花动漫[漫]"
+    },
+    {
     "key":"hipy_js_爱看机器人[虫]",
     "name":"道长爱看机器",
     "type":3,
@@ -123,6 +147,19 @@
     "filterable":1,
     "order_num":0,
     "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/爱看机器人[虫].js"
+    },
+    {
+    "key":"DaPanSo",
+    "name":"道长大盘网盘",
+    "type":3,
+    "jar":"https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar",
+    "api":"csp_DaPanSo",
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":1,
+    "timeout":60,
+    "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/json/tokenm.json$$$https://dapanso.com$$$proxy$$$1",
+    "order_num":9999
     },
     {
     "key":"juying",

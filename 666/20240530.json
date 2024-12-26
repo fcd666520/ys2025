@@ -146,6 +146,54 @@
     "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar"
     },
     {
+    "key":"hipy_js_北川影视",
+    "name":"道长北川影视",
+    "type":3,
+    "jar":"https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar",
+    "api":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "order_num":0,
+    "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/北川影视.js"
+    },
+    {
+    "key":"hipy_js_白嫖者联盟",
+    "name":"道长白嫖影视",
+    "type":3,
+    "jar":"https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar",
+    "api":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "order_num":0,
+    "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/白嫖者联盟.js"
+    },
+    {
+    "key":"hipy_js_爱迪影视",
+    "name":"道长爱迪影视",
+    "type":3,
+    "jar":"https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar",
+    "api":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "order_num":0,
+    "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/爱迪影视.js"
+    },
+    {
+    "key":"hipy_js_达达猪",
+    "name":"道长达猪影视",
+    "type":3,
+    "jar":"https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar",
+    "api":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "order_num":0,
+    "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/达达猪.js"
+    },
+    {
     "key":"hipy_js_达达龟",
     "name":"道长达龟影视",
     "type":3,
@@ -158,7 +206,19 @@
     "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/达达龟.js"
     },
     {
-    "key":"樱花动漫[漫]",
+    "key":"hipy_js_动漫网[漫]",
+    "name":"道长动漫漫网",
+    "type":3,
+    "jar":"https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar",
+    "api":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "order_num":0,
+    "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/动漫网[漫].js"
+    },
+    {
+    "key":"hipy_js_樱花动漫[漫]",
     "name":"道长樱花动漫",
     "type":3,
     "jar":"https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar",

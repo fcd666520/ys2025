@@ -685,7 +685,7 @@
     },
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
     },
-    {
+   /* {
     "key":"荐片",
     "name":"荐片快播影视",
     "api":"csp_Jianpian",
@@ -706,7 +706,7 @@
     "danmu":true
     },
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
-    },
+    },*/
     {
     "key":"哔嘀弹幕",
     "name":"哔嘀弹幕影视",

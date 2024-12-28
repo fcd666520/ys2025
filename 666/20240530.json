@@ -809,7 +809,7 @@
     "冒险片"
     ]
     },
-    {
+    /*{
     "key":"Lib",
     "name":"利播直连影视",
     "type":3,
@@ -818,7 +818,7 @@
     "quickSearch":1,
     "changeable":1,
     "ext":"https://www.libvio.fun/"
-    },
+    },*/
     {
     "key":"drpy_js_哔哩影视",
     "name":"哔哩哔哩影视",

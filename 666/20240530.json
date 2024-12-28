@@ -1,4 +1,4 @@
-    {"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+    {"spider":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
     "warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
     "sites":[
     {
@@ -527,184 +527,43 @@
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/魔力高清.js"
     },
     {
-    "key":"pgys",
-    "name":"喵影苹果影视",
-    "type":3,
-    "api":"csp_LiteApple",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "jar":"http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
+      "key": "文采",
+      "name": "肥猫文采影视",
+      "type": 3,
+     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
-    "key":"shys",
-    "name":"喵影骚火影视",
-    "type":3,
-    "api":"csp_SaoHuo",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+      "key": "Lib",
+      "name": "肥猫立播影视",
+      "type": 3,
+     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     },
-    {
-    "key":"gzys",
-    "name":"喵影瓜子影视",
-    "type":3,
-    "api":"csp_Gz360",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "playerType":2,
-    "timeout":30,
-    "jar":"http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
-    },
-    {
-    "key":"rzys",
-    "name":"喵影忍者影视",
-    "type":3,
-    "api":"csp_AppRZ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "playerType":2,
-    "ext":"http://rzys.xyz/",
-    "jar":"http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-    },
-    {
-    "key":"Kkys",
-    "name":"喵影快看影视",
-    "type":3,
-    "api":"csp_Kuaikan",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "jar":"http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-    {
-    "key":"sbys",
-    "name":"喵影素白影视",
-    "type":3,
-    "api":"csp_XYQHiker",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://www.meowtv.cn/xp/meow.php?file=sbys",
-    "jar":"http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-    },
-    {
-    "key":"Qxys",
-    "name":"喵影七新影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"
-    },
-    {
-    "key":"xcys",
-    "name":"喵影星辰影视",
-    "type":3,
-    "api":"http://www.meowtv.cn/js/drpy2.min.js",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://www.meowtv.cn/js/meow.php?file=xcys"
-    },
-    {
-    "key":"jpys",
-    "name":"喵影荐片影视",
-    "type":3,
-    "api":"http://www.meowtv.cn/js/drpy2.min.js",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext":"http://www.meowtv.cn/js/meow.php?file=jpys"
-    },
-    {
-    "key":"木星",
-    "name":"摸鱼木星多线",
-    "type":3,
-    "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-    "api":"csp_AppSx",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
-    },
-    {
-    "key":"风中知秋",
-    "name":"摸鱼知秋纯净",
-    "type":3,
-    "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-    "api":"csp_AppYsV3",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{
-    "cmsApis":"UP4wckC350BpK3+jAtNI2bALiFmoKuT3saBr3tEJwib2fyd/xcLxfgaGGQQtWFUy",
-    "jxApi":"Wej8dsjSOejyktB12mocSLWTi825PIxEG4czSppvUqp1CDqccQ6jsoQpTPy0wQZY",
-    "prefix":"Vjg339EykTqCGOzkWu38CGyBHHEtp7snRpwV7kGvMmk="
-    }
-    },
-    {
-    "key":"炉火茶香",
-    "name":"摸鱼茶香纯净",
-    "type":3,
-    "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-    "api":"csp_AppYsV3",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{
-    "cmsApis":"UP4wckC350BpK3+jAtNI2blhjGe5XpRJzt28WdKpAOLIdkF5c7qnry0vLSuNURpG",
-    "jxApi":"Wej8dsjSOejyktB12mocSLWTi825PIxEG4czSppvUqp1CDqccQ6jsoQpTPy0wQZY",
-    "prefix":"dJfwfXAVjjaQz8j4tCkylOzM25rS6UDt2JFvGkrFC/U="
-    }
-    },
-    {
-    "key":"五五影视",
-    "name":"摸鱼蓝光无广",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=55"
-    },
-    {
-    "key":"摸鱼瓜子",
-    "name":"摸鱼瓜子影视",
-    "type":3,
-    "api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js",
-    "filterable":1,
-    "order_num":0,
-    "changeable":0,
-    "ext":"https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
-    },
-    {
-    "key":"醉挽清风",
-    "name":"摸鱼清风影视",
-    "type":3,
-    "api":"http://我不是.摸鱼儿.com/json/js/drpy.min.js",
-    "jar":"http://我不是.摸鱼儿.com/by/jar/moyu.php",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "order_num":0,
-    "ext":"https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
-    },
-    {
-    "key":"小马",
-    "name":"摸鱼蓝光纯净",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "ext":"https://mas.szyyds.cn/api.php/app/"
+      {
+      "key": "苹果",
+      "name": "肥猫苹果影视",
+      "type": 3,
+     "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "荐片",
-      "name": "荐片影视",
+      "name": "肥猫荐片影视",
      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734615746553/Feimao1217.txt;md5;c686a116d4f0c60b1dbf28dc0da27fe3",
       "api": "csp_Jianpian",
       "type": 3,

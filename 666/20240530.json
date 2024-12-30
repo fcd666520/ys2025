@@ -1277,7 +1277,7 @@
     },
     {
     "key":"Mp4电影",
-    "name":"磁力电影搜索",
+    "name":"磁力Ｍ４搜索",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
     "type":3,
     "api":"csp_Mp4Mov",
@@ -1286,19 +1286,10 @@
     "filterable":1
     },
     {
-    "key":"SeedHub",
-    "name":"磁力ＳＨ搜索",
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
-    "type":3,
-    "api":"csp_SeedHub",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },
-    {
     "key":"csp_SeedHub",
     "name":"磁力ＳＨ二磁",
     "type":3,
+    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar", 
     "api":"csp_SeedHub",
     "searchable":1,
     "quickSearch":1,
@@ -1308,8 +1299,8 @@
     {
     "key":"酷吧电影",
     "name":"磁力酷吧电影",
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
-    //"jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    //"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
     "type":3,
     "api":"csp_KubaCL",
     "searchable":1,

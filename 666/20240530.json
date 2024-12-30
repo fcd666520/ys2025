@@ -133,19 +133,6 @@
     "ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
     },
     {
-    "key":"南瓜弹幕",
-    "name":"摸鱼南瓜影视",
-    "type":3,
-    "api":"csp_Nangua",
-    "jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{
-    "danmu":true
-    }
-    },
-    {
     "key":"真心影视",
     "name":"摸鱼真心影视",
     "type":3,
@@ -204,50 +191,6 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"http://38.55.250.149:1314/api.php/app/"
-    },
-    {
-    "key":"糯米",
-    "name":"摸鱼糯米影视",
-    "type":3,
-    "jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php",
-    "api":"csp_Nmyswv",
-    "timeout":15,
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1
-    },
-    {
-    "key":"苹果",
-    "name":"摸鱼苹果影视",
-    "type":3,
-    "jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php",
-    "api":"csp_LiteApple",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1
-    },
-    {
-    "key":"萌米",
-    "name":"摸鱼萌米影视",
-    "type":3,
-    "jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php",
-    "api":"csp_AppTT",
-    "playerType":2,
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
-    {
-    "key":"木星",
-    "name":"摸鱼木星影视",
-    "type":3,
-    "jar":"http://我不是.摸鱼儿.com/by/jar/danmu.php",
-    "api":"csp_AppSx",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"
     },
     {
     "key":"酷影视",

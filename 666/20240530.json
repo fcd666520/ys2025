@@ -757,15 +757,6 @@
     "filterable":1
     },
     {
-    "key":"天天影视",
-    "name":"天天潇洒影视",
-    "type":3,
-    "api":"csp_AppTT",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },
-    {
     "key":"天天弹幕",
     "name":"天天弹幕影视",
     "type":3,

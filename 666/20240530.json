@@ -964,14 +964,14 @@
     },
     {
     "key":"Anime1",
-    "name":"星标ＡＭ动漫",
+    "name":"星标傲慢动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/%E5%8A%A8%E6%BC%AB/JS/Anime1.js"
     },
     {
     "key":"drpy_js_NT动漫",
-    "name":"星标ＮＴ动漫",
+    "name":"星标拿铁动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/NT动漫.js"

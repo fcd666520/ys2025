@@ -672,6 +672,23 @@
     }
     },
     {
+    "key":"夸克白嫖弹幕",
+    "name":"潇潇白嫖弹幕",
+    "type":3,
+    "jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
+    "api":"csp_Wobg",
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":1,
+    "ext":{
+    "token":"http://127.0.0.1:9978/file/TVBox/token.txt",
+    "cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt",
+    "uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt",
+    "site":"https://smdyo.top",
+    "danmu":true
+    }
+    },
+    {
     "key":"采集之王",
     "name":"潇洒采集影视",
     "type":3,

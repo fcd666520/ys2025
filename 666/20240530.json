@@ -649,6 +649,14 @@
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/魔力高清.js"
     },
     {
+    "key":"动画片",
+    "name":"潇洒动画动漫",
+    "type":3,
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "api":"https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js",
+    "ext":"https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/动画片大全.js"
+    },
+    {
     "key":"文采",
     "name":"肥猫文采影视",
     "type":3,
@@ -761,7 +769,7 @@
     },
     {
     "key":"快看影视",
-    "name":"快看多线影视",
+    "name":"星标快看影视",
     "type":3,
     "api":"csp_Kuaikan",
     "searchable":1,
@@ -770,7 +778,7 @@
     },
     {
     "key":"天天弹幕",
-    "name":"天天弹幕影视",
+    "name":"星标天天影视",
     "type":3,
     "api":"csp_TianTian",
     "searchable":1,
@@ -783,7 +791,7 @@
     },
     {
     "key":"玩偶弹幕",
-    "name":"玩偶弹幕影视",
+    "name":"星标玩偶影视",
     "type":3,
     "api":"csp_Wogg",
     "searchable":1,
@@ -800,7 +808,7 @@
     },
     {
     "key":"哔嘀弹幕",
-    "name":"哔嘀弹幕影视",
+    "name":"星标哔嘀影视",
     "type":3,
     "api":"csp_Bdys",
     "searchable":1,
@@ -814,7 +822,7 @@
     },
     {
     "key":"厂长资源",
-    "name":"厂长直连影视",
+    "name":"星标厂长影视",
     "type":3,
     "api":"csp_Czzy",
     "searchable":1,
@@ -823,7 +831,7 @@
     },
     {
     "key":"厂长弹幕",
-    "name":"厂长弹幕影视",
+    "name":"星标厂长影视",
     "type":3,
     "api":"csp_Czzy",
     "searchable":1,
@@ -835,7 +843,7 @@
     },
     {
     "key":"文才弹幕",
-    "name":"文才弹幕影视",
+    "name":"星标文才影视",
     "type":3,
     "api":"csp_Jpys",
     "searchable":1,
@@ -848,7 +856,7 @@
     },
     {
     "key":"可可",
-    "name":"可可多线影视",
+    "name":"星标可可影视",
     "type":3,
     "playerType":"2",
     "api":"csp_Keke",
@@ -860,21 +868,21 @@
     },
     {
     "key":"drpy_js_在线之家",
-    "name":"在线之家外剧",
+    "name":"星标在线之家",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/在线之家.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/在线之家.js"
     },
     {
     "key":"drpy_js_看了么",
-    "name":"看了星标影视",
+    "name":"星标看了影视",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/看了么.js"
     },
     {
     "key":"火狐",
-    "name":"小茶杯狐影视",
+    "name":"星标茶杯狐影视",
     "type":1,
     "api":"https://hhzyapi.com/api.php/provide/vod/",
     "searchable":1,
@@ -906,79 +914,71 @@
     "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"
     },
     {
-    "key":"动画片",
-    "name":"潇洒动画动漫",
-    "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    "api":"https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js",
-    "ext":"https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/动画片大全.js"
-    },
-    {
     "key":"drpy_js_58动漫",
-    "name":"五八多线动漫",
+    "name":"星标五八动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/58动漫.js"
     },
     {
     "key":"drpy_js_哔哩影视",
-    "name":"Ｂ站哔哩动漫",
+    "name":"星标哔哩动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/哔哩影视.js"
     },
     {
     "key":"drpy_js_奇米动漫",
-    "name":"奇米多线动漫",
+    "name":"星标奇米动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/奇米动漫.js"
     },
     {
     "key":"drpy_js_动漫岛",
-    "name":"漫岛多线动漫",
+    "name":"星标漫岛动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/refs/heads/master/js/动漫岛.js"
     },
     {
     "key":"drpy_js_爱弹幕",
-    "name":"爱弹多线动漫",
+    "name":"星标爱弹动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/爱弹幕.js"
     },
     {
     "key":"drpy_js_路漫漫",
-    "name":"漫漫多线动漫",
+    "name":"星标漫漫动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/路漫漫.js"
     },
     {
     "key":"樱花",
-    "name":"樱花多线动漫",
+    "name":"星标樱花动漫",
     "type":3,
     "api":"csp_XBPQ",
     "ext":"分类url:https://www.857yhw.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"
     },
     {
     "key":"Anime1",
-    "name":"ＡＭ多线动漫",
+    "name":"星标ＡＭ动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/TVBox_warehouse/main/%E5%8A%A8%E6%BC%AB/JS/Anime1.js"
     },
     {
     "key":"drpy_js_NT动漫",
-    "name":"ＮＴ多线动漫",
+    "name":"星标ＮＴ动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/NT动漫.js"
     },
     {
     "key":"csp_Dm84",
-    "name":"巴士多线动漫",
+    "name":"星标巴士动漫",
     "type":3,
     "api":"csp_Dm84",
     "searchable":1,
@@ -987,7 +987,7 @@
     },
     {
     "key":"drpy_js_怡萱动漫",
-    "name":"怡萱多线动漫",
+    "name":"星标怡萱动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/怡萱动漫.js"

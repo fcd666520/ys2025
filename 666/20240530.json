@@ -882,7 +882,7 @@
     },
     {
     "key":"火狐",
-    "name":"星标茶杯狐影视",
+    "name":"星标杯狐影视",
     "type":1,
     "api":"https://hhzyapi.com/api.php/provide/vod/",
     "searchable":1,

@@ -935,7 +935,6 @@
     "key":"木偶网盘",
     "name":"天天木偶网盘",
     "type":3,
-    "jar":"https://media-gdgz-fy-person.gd5oss.ctyunxs.cn/PERSONCLOUD/127335e8-45e2-469c-bf4a-abd8a00ca741.tmp?response-content-disposition=attachment%3Bfilename%3D%22ttkx.jar%22%3Bfilename*%3DUTF-8%27%27ttkx.jar&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-CLIENTTYPEIN=PC&Signature=uUeK%2BGv/hCNwEmQX1E5uYw70SOs%3D&AWSAccessKeyId=g6jU1T3TkAbPKf5ouH5d&x-amz-userLevel=7&Expires=1735818249&x-amz-limitrate=51200&x-amz-FSIZE=2744719&x-amz-UID=292826733&x-amz-UFID=123731171320036193",
     "api":"csp_Wobg",
     "searchable":1,
     "filterable":1,
@@ -971,24 +970,6 @@
     "threads":12
     }
     }
-    },
-    {
-    "key":"Wexnullname",
-    "name":"牛娃无名影视",
-    "type":3,
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735807006998/wex.txt;md5;6c179b32bacd11dcb47674ead997cbcc",
-    "api":"csp_Wexnullname",
-    "searchable":1,
-    "changeable":1
-    },
-    {
-    "key":"csp_Nmys",
-    "name":"牛娃伯伯影视",
-    "type":3,
-    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735807006998/wex.txt;md5;6c179b32bacd11dcb47674ead997cbcc",
-    "api":"csp_WexNmys",
-    "searchable":1,
-    "changeable":1
     },
     {
     "key":"快看影视",

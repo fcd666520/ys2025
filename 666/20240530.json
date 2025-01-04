@@ -189,7 +189,7 @@
     "name":"网盘账号设置",
     "type":3,
     "api":"csp_Config",
-    "jar":"https://gitlab.com/fcd666520/gao/-/raw/master/jar/pg.jar?ref_type=heads&inline=false",
+    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/leevi0709/one/main/lib/pg.jar",
     "searchable":0,
     "changeable":0,
     "style":{

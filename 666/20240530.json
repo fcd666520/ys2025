@@ -19,6 +19,16 @@
     "api":"csp_LocalFile"
     },
     {
+    "key":"juying",
+    "name":"想看影视点我",
+    "type":3,
+    "searchable":1,
+    "changeable":0,
+    "quickSearch":0,
+    "filterable":1,
+    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/聚影搜索.js"
+    },
+    {
     "key":"csp_KungFu404",
     "name":"阿里签到设置",
     "type":3,
@@ -86,16 +96,6 @@
     "timeout":60
     },
     {
-    "key":"juying",
-    "name":"聚合搜索影视",
-    "type":3,
-    "searchable":1,
-    "changeable":0,
-    "quickSearch":0,
-    "filterable":1,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/聚影搜索.js"
-    },
-    {
     "key":"玩偶影视",
     "name":"星标阿里影视",
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
@@ -117,6 +117,19 @@
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","share":""},
     "style":{"type":"list"},
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    },
+    {
+    "key":"皮皮虾",
+    "name":"皮虾解析",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "changeable":1,
+    "playerType":2,
+    "jar":"./jar/xiaosa.jar;md5;00ade2b74c302f33afbeb7f96f861be4",
+    "ext":"http://38.55.250.149:1314/api.php/app/"
     },
     {
     "key":"直播转点播",

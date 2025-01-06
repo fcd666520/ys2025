@@ -518,7 +518,7 @@
     "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/json/tokenm.json$$$https://dapanso.com$$$proxy$$$1",
     "order_num":9999
     },
-    {
+    /*{
     "key":"厂长弹幕",
     "name":"潇潇厂长弹幕",
     "type":3,
@@ -531,7 +531,7 @@
     "ext":{
     "danmu":true
     }
-    },
+    },*/
     {
     "key":"天天弹幕",
     "name":"潇潇天天弹幕",
@@ -1063,7 +1063,7 @@
     },
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
     },
-    {
+   /* {
     "key":"厂长资源",
     "name":"星标厂长影视",
     "type":3,
@@ -1071,7 +1071,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
-    },
+    },*/
     {
     "key":"厂长弹幕",
     "name":"星标厂长影视",
@@ -1673,6 +1673,7 @@
     //"jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/cili/bt0.json"
     },
+   /* 
     {
     "key":"酷吧电影",
     "name":"磁力酷吧电影",
@@ -1683,7 +1684,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1
-    },
+    },*/
     {
     "key":"SeedHub",
     "name":"ＳＥ电影磁力",

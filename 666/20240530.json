@@ -38,17 +38,15 @@
     "api":"12"
     },
     {
-      "key": "drpy.js",
-      "name": "主页豆瓣推荐",
-      "type": 3,
-      "api": "https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-      "ext": "https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/drpy.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
+    "key":"drpy.js",
+    "name":"主页豆瓣推荐",
+    "type":3,
+    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
+    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/drpy.js",
+    "searchable":1,
+    "quickSearch":0,
+    "changeable":0
     },
-    {
-     
     {
     "key":"本地",
     "name":"本地文件视频",
@@ -1075,7 +1073,7 @@
     },
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
     },
-   /* {
+    /*{
     "key":"厂长资源",
     "name":"星标厂长影视",
     "type":3,
@@ -1685,7 +1683,7 @@
     //"jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/cili/bt0.json"
     },
-   /* 
+    /*
     {
     "key":"酷吧电影",
     "name":"磁力酷吧电影",

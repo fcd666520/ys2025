@@ -15,7 +15,7 @@
     "key":"本地",
     "name":"本地文件视频",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_LocalFile"
     },
     {
@@ -98,7 +98,7 @@
     {
     "key":"玩偶影视",
     "name":"星标阿里影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "type":3,
     "api":"csp_XYQHikerAL",
     "searchable":1,
@@ -116,7 +116,7 @@
     "filterable":0,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","share":""},
     "style":{"type":"list"},
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar"
     },
     {
     "key":"直播转点播",
@@ -496,7 +496,7 @@
     "key":"天天弹幕",
     "name":"潇潇天天弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_TianTian",
     "searchable":1,
     "quickSearch":1,
@@ -510,7 +510,7 @@
     "key":"热播弹幕",
     "name":"潇潇热播弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_TianTian",
     "searchable":1,
     "quickSearch":1,
@@ -524,7 +524,7 @@
     "key":"浪酷弹幕",
     "name":"潇潇浪酷弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_TianTian",
     "searchable":1,
     "quickSearch":1,
@@ -538,7 +538,7 @@
     "key":"糯米弹幕",
     "name":"潇潇糯米弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_Nmys",
     "searchable":1,
     "quickSearch":1,
@@ -551,7 +551,7 @@
     "key":"文才弹幕",
     "name":"潇潇文才弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_Jpys",
     "searchable":1,
     "quickSearch":1,
@@ -564,7 +564,7 @@
     "key":"立播弹幕",
     "name":"潇潇立播弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_Libvio",
     "searchable":1,
     "filterable":1,
@@ -581,7 +581,7 @@
     "key":"天天弹幕",
     "name":"潇潇天天弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_TianTian",
     "searchable":1,
     "quickSearch":1,
@@ -595,7 +595,7 @@
     "key":"夸克木偶弹幕",
     "name":"潇潇木偶弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_Wobg",
     "quickSearch":1,
     "changeable":1,
@@ -612,7 +612,7 @@
     "key":"夸克虎斑弹幕",
     "name":"潇潇虎斑弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_Wobg",
     "quickSearch":1,
     "changeable":1,
@@ -629,7 +629,7 @@
     "key":"夸克下饭弹幕",
     "name":"潇潇下饭弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_Wobg",
     "quickSearch":1,
     "changeable":1,
@@ -646,7 +646,7 @@
     "key":"夸克白嫖弹幕",
     "name":"潇潇白嫖弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_Wobg",
     "quickSearch":1,
     "changeable":1,
@@ -672,7 +672,7 @@
     "key":"酷影视",
     "name":"潇洒酷影影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_AppYsV2",
     "searchable":1,
     "quickSearch":1,
@@ -682,7 +682,7 @@
     {
     "key":"天天影视",
     "name":"潇洒天天影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "type":3,
     "api":"csp_AppTT",
     "searchable":1,
@@ -692,7 +692,7 @@
     {
     "key":"热播影视",
     "name":"潇洒热播影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "type":3,
     "api":"csp_AppRB",
     "searchable":1,
@@ -702,7 +702,7 @@
     {
     "key":"洽洽影视",
     "name":"潇洒洽洽影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "type":3,
     "api":"csp_AppGZ",
     "searchable":1,
@@ -713,7 +713,7 @@
     "key":"饺子影视",
     "name":"潇洒饺子影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_Jiaozi",
     "searchable":1,
     "quickSearch":1,
@@ -723,7 +723,7 @@
     "key":"金牌影视",
     "name":"潇洒金牌影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_WebJP",
     "searchable":1,
     "quickSearch":1,
@@ -732,7 +732,7 @@
     {
     "key":"真心影视",
     "name":"潇洒真心影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "type":3,
     "api":"csp_WebGZ",
     "searchable":1,
@@ -742,7 +742,7 @@
     {
     "key":"机器人",
     "name":"潇洒机器影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "type":3,
     "api":"csp_Ikanbot",
     "searchable":1,
@@ -752,7 +752,7 @@
     {
     "key":"奇趣影视",
     "name":"潇洒奇趣影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "type":3,
     "api":"csp_XYQHiker",
     "searchable":1,
@@ -764,7 +764,7 @@
     "key":"素白白",
     "name":"潇洒素白影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_Subaibai",
     "searchable":1,
     "quickSearch":1,
@@ -774,7 +774,7 @@
     "key":"小苹果",
     "name":"潇洒苹果影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_Xpg",
     "searchable":1,
     "quickSearch":1,
@@ -784,7 +784,7 @@
     "key":"电影牛",
     "name":"潇洒影牛影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"csp_XYQHiker",
     "searchable":1,
     "quickSearch":1,
@@ -795,7 +795,7 @@
     "key":"魔力高清",
     "name":"潇洒魔力影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/魔力高清.js"
     },
@@ -803,7 +803,7 @@
     "key":"动画片",
     "name":"潇洒动画动漫",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "api":"https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js",
     "ext":"https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/动画片大全.js"
     },
@@ -979,7 +979,7 @@
     "ext":{
     "danmu":true
     },
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar"
     },
     {
     "key":"玩偶弹幕",
@@ -996,7 +996,7 @@
     "wogg":true,
     "danmu":true
     },
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar"
     },
     {
     "key":"哔嘀弹幕",
@@ -1010,7 +1010,7 @@
     "site":"https://www.xlys01.com",
     "danmu":true
     },
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar"
     },
     {
     "key":"厂长弹幕",
@@ -1022,7 +1022,7 @@
     "filterable":1,
     "ext":{"danmu":true},
     "timeout":25,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar"
     },
     {
     "key":"文才弹幕",
@@ -1035,7 +1035,7 @@
     "ext":{
     "danmu":true
     },
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar"
     },
     {
     "key":"可可",
@@ -1545,7 +1545,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/cili/yinfans.json"
     },
     {
@@ -1632,7 +1632,7 @@
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "danmu":true},
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar"
     },
     {
     "key":"夸克多多弹幕",
@@ -1648,7 +1648,7 @@
     "site":"https://tv.yydsys.top",
     "danmu":true
     },
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.pg.fty.fenghe.jar"
     },
     {
     "key":"趣盘夸克",

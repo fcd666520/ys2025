@@ -1762,6 +1762,7 @@
     "key":"商店",
     "name":"影视更新商店",
     "type":3,
+    "jar":"https://gitlab.com/fcd666520/2025/-/raw/master/jar/pg.jar?ref_type=heads",
     "api":"csp_Market",
     "searchable":0,
     "changeable":0,

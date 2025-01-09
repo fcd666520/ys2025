@@ -1759,7 +1759,7 @@
     "timeout":10
     },
     {
-    "key":"market",
+    "key":"應用商店",
     "name":"影视更新商店",
     "type":3,
     "api":"csp_Market",

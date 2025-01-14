@@ -73,6 +73,18 @@
     "changeable":0
     },
     {
+    "key":"皮皮虾JS",
+    "name":"皮皮影视蓝光",
+    "type":3,
+    "api":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "changeable":1,
+    "playerType":2,
+    "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/皮皮虾[优].js"
+    },
+    {
     "key":"alllive",
     "name":"聚合２Ｋ直播",
     "type":3,
@@ -181,12 +193,13 @@
     {
     "key":"皮皮虾",
     "name":"摸鱼皮皮影视",
+    "playerType": 1,
     "type":3,
     "api":"csp_AppYsV2",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"http://38.55.250.149:1314/api.php/app/"
+    "ext":"http://www.ppxys.vip/api.php/app/"
     },
     {
     "key":"酷影视",

@@ -160,6 +160,7 @@
     "name": "急速木星影视",
     "type": 3,
     "api": "csp_AppSx",
+    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/fan.txt",
     "searchable": 1,
     "quickSearch": 1,
     "changeable": 1,

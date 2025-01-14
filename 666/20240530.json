@@ -73,18 +73,6 @@
     "changeable":0
     },
     {
-    "key":"皮皮虾JS",
-    "name":"皮皮影视蓝光",
-    "type":3,
-    "api":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "changeable":1,
-    "playerType":2,
-    "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/皮皮虾[优].js"
-    },
-    {
     "key":"alllive",
     "name":"聚合２Ｋ直播",
     "type":3,
@@ -131,6 +119,52 @@
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
     },
     {
+    "key":"皮皮虾JS",
+    "name":"急速皮皮影视",
+    "type":3,
+    "api":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "changeable":1,
+    "playerType":2,
+    "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/皮皮虾[优].js"
+    },
+    {
+    "key":"🌟客星",
+    "name":"急速客星影视",
+    "type":3,
+    "api":"csp_Xdai",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "order_num":0,
+    "playerType":2,
+    "ext":"caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
+    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/qj.jar"
+    },
+    {
+    "key":"原创",
+    "name":"急速原创影视",
+    "type":3,
+    "api":"csp_YCyz",
+    "timeout":15,
+    "playerType":1,
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1
+    },
+    {
+    "key": "木星",
+    "name": "急速木星影视",
+    "type": 3,
+    "api": "csp_AppSx",
+    "searchable": 1,
+    "quickSearch": 1,
+    "changeable": 1,
+    "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
+    },
+    {
     "key":"直播转点播",
     "name":"摸鱼ＩＰＶ６",
     "type":3,
@@ -145,7 +179,7 @@
     "name":"摸鱼真心影视",
     "type":3,
     "api":"csp_WebGZ",
-    "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
@@ -155,7 +189,7 @@
     "name":"摸鱼快看影视",
     "type":3,
     "api":"csp_Kuaikan",
-    "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
@@ -165,7 +199,7 @@
     "name":"摸鱼忍者影视",
     "type":3,
     "api":"csp_AppRZ",
-    "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
@@ -185,7 +219,7 @@
     "name":"摸鱼瓜二影视",
     "type":3,
     "api":"csp_AppGZ",
-    "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
@@ -193,7 +227,7 @@
     {
     "key":"皮皮虾",
     "name":"摸鱼皮皮影视",
-    "playerType": 1,
+    "playerType":1,
     "type":3,
     "api":"csp_AppYsV2",
     "searchable":1,

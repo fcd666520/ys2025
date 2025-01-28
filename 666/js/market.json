@@ -1,7 +1,15 @@
 [
-
   {
-    "name": "影视更新",
+    "name": "ico",
+    "list": [
+      {
+        "url": "https://qist.cc/tv/favicon.ico",
+        "icon": "https://qist.cc/tv/favicon.ico"
+      }
+    ]
+  },
+  {
+    "name": "扫码下载更新Tvbox丶OK影视",
     "list": [
       {
         "name": "",
@@ -11,11 +19,10 @@
       },
       {
         "name": "",
-        "icon": "https://gitlab.com/fcd666520/2024looo/-/raw/master/%E5%9B%BE%E7%89%87/夸克.png",
         "url": "",
+        "icon": "https://gitlab.com/fcd666520/2024looo/-/raw/master/%E5%9B%BE%E7%89%87/夸克.png",
         "version": ""
       }
-
     ]
       }
     ]

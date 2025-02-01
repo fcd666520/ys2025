@@ -3,7 +3,7 @@
     "sites":[
     {
     "key":"應用商店",
-    "name":"影视更新商店",
+    "name":"影视更新商店，请勿相信视频中广告",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/2025/-/raw/master/jar/pg.jar",
     "api":"csp_Market",

@@ -186,6 +186,20 @@
     "filterable":0,
     "ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
     },
+  {
+      "key": "哆啦新番社",
+      "name": "摸鱼哆啦动漫",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "style": {
+        "type": "list"
+      },
+      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哆啦"
+    },
     {
     "key":"真心影视",
     "name":"摸鱼真心影视",

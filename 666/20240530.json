@@ -129,31 +129,6 @@
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
     },
     {
-    "key":"皮皮虾JS",
-    "name":"急速皮皮影视",
-    "type":3,
-    "api":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "changeable":1,
-    "playerType":2,
-    "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/皮皮虾[优].js"
-    },
-    {
-    "key":"🌟客星",
-    "name":"急速客星影视",
-    "type":3,
-    "api":"csp_Xdai",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "order_num":0,
-    "playerType":2,
-    "ext":"caHR0cHM6Ly9zYzEwODAudG9wfGU1OWQ0NGIyZWVmMDNiYTJ8ZTU5ZDQ0YjJlZWYwM2JhMg==",
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/qj.jar"
-    },
-    {
     "key":"原创",
     "name":"急速原创影视",
     "type":3,
@@ -166,15 +141,15 @@
     "changeable":1
     },
     {
-    "key": "木星",
-    "name": "急速木星影视",
-    "type": 3,
-    "api": "csp_AppSx",
+    "key":"木星",
+    "name":"急速木星影视",
+    "type":3,
+    "api":"csp_AppSx",
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/fan.txt",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "ext":"FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
     },
     {
     "key":"直播转点播",
@@ -186,19 +161,19 @@
     "filterable":0,
     "ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
     },
-  {
-      "key": "哆啦新番社",
-      "name": "摸鱼哆啦动漫",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "list"
-      },
-      "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=哆啦"
+    {
+    "key":"哆啦新番社",
+    "name":"摸鱼哆啦动漫",
+    "type":3,
+    "api":"csp_XBPQ",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "style":{
+    "type":"list"
+    },
+    "ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=哆啦"
     },
     {
     "key":"真心影视",
@@ -221,16 +196,6 @@
     "filterable":1
     },
     {
-    "key":"忍者影视",
-    "name":"摸鱼忍者影视",
-    "type":3,
-    "api":"csp_AppRZ",
-    "jar":"http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },
-    {
     "key":"摸鱼瓜子",
     "name":"摸鱼瓜子影视",
     "type":3,
@@ -239,37 +204,6 @@
     "order_num":0,
     "changeable":0,
     "ext":"https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js"
-    },
-    {
-    "key":"瓜子影视",
-    "name":"摸鱼瓜二影视",
-    "type":3,
-    "api":"csp_AppGZ",
-    "jar":"http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },
-    {
-    "key":"皮皮虾",
-    "name":"摸鱼皮皮影视",
-    "playerType":1,
-    "type":3,
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://www.ppxys.vip/api.php/app/"
-    },
-    {
-    "key":"酷影视",
-    "name":"摸鱼酷影影视",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"https://www.tvkuys.xyz/api.php/app/"
     },
     {
     "key":"atys",
@@ -284,25 +218,39 @@
     "jar":"http://m1839732.ca.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
-    "key":"nmys",
-    "name":"喵喵农民影视",
-    "type":3,
-    "api":"csp_Nongm",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "jar":"http://m1839732.ca.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
-    },
-    {
     "key":"sbys",
     "name":"喵喵素白影视",
     "type":3,
-    "api":"csp_XYQHiker",
+    "api":"csp_SuBaiBai",
     "searchable":1,
     "quickSearch":1,
-    "filterable":1,
-    "ext":"http://www.meowtv.cn/xp/meow.php?file=sbys",
-    "jar":"http://m1839732.ca.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
+    "changeable":1,
+    "playerType":2,
+    "ext":"https://www.subaibaiys.com/",
+    "jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
+    },
+    {
+    "key":"Wwys",
+    "name":"喵喵汪汪影视",
+    "type":3,
+    "api":"csp_Wwys",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "playerType":2,
+    "ext":"https://www.wwgz.cn/",
+    "jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
+    },
+    {
+    "key":"bdys",
+    "name":"喵喵哔嘀影视",
+    "type":3,
+    "api":"csp_Xlys",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "playerType":2,
+    "jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
     },
     {
     "key":"Qxys",
@@ -565,26 +513,11 @@
     "ext":"https://gitlab.com/duomv/dzhipy/-/raw/main/json/tokenm.json$$$https://dapanso.com$$$proxy$$$1",
     "order_num":9999
     },
-    /*{
-    "key":"厂长弹幕",
-    "name":"潇潇厂长弹幕",
-    "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    //"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
-    "api":"csp_Czzy",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":{
-    "danmu":true
-    }
-    },*/
     {
     "key":"天天弹幕",
     "name":"潇潇天天弹幕",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    //"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
     "api":"csp_TianTian",
     "searchable":1,
     "quickSearch":1,
@@ -599,7 +532,6 @@
     "name":"潇潇热播弹幕",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    //"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
     "api":"csp_TianTian",
     "searchable":1,
     "quickSearch":1,
@@ -614,7 +546,6 @@
     "name":"潇潇浪酷弹幕",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    //"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
     "api":"csp_TianTian",
     "searchable":1,
     "quickSearch":1,
@@ -629,7 +560,6 @@
     "name":"潇潇糯米弹幕",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    //"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
     "api":"csp_Nmys",
     "searchable":1,
     "quickSearch":1,
@@ -643,7 +573,6 @@
     "name":"潇潇文才弹幕",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    //"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
     "api":"csp_Jpys",
     "searchable":1,
     "quickSearch":1,
@@ -657,7 +586,6 @@
     "name":"潇潇立播弹幕",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    //"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
     "api":"csp_Libvio",
     "searchable":1,
     "filterable":1,
@@ -675,7 +603,6 @@
     "name":"潇潇天天弹幕",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    //"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
     "api":"csp_TianTian",
     "searchable":1,
     "quickSearch":1,
@@ -690,7 +617,6 @@
     "name":"潇潇木偶弹幕",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    //"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
     "api":"csp_Wobg",
     "quickSearch":1,
     "changeable":1,
@@ -708,7 +634,6 @@
     "name":"潇潇虎斑弹幕",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    //"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
     "api":"csp_Wobg",
     "quickSearch":1,
     "changeable":1,
@@ -726,7 +651,6 @@
     "name":"潇潇下饭弹幕",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    //"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
     "api":"csp_Wobg",
     "quickSearch":1,
     "changeable":1,
@@ -744,7 +668,6 @@
     "name":"潇潇白嫖弹幕",
     "type":3,
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    //"jar":"https://gitee.com/PizazzXS/four-d/raw/master/spider.txt;md5;702713c095a210eb0ba26377534175b4",
     "api":"csp_Wobg",
     "quickSearch":1,
     "changeable":1,
@@ -994,6 +917,29 @@
     }
     },
     {
+    "key":"csp_SuBaiBai",
+    "name":"小米白白影视",
+    "type":3,
+    "searchable":1,
+    "api":"csp_SuBaiBai",
+    "playerType":2,
+    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737710777074/012403.jar",
+    "ext":"https://www.subaibaiys.com/"
+    },
+    {
+    "key":"wencai",
+    "name":"小米文采影视",
+    "type":3,
+    "api":"csp_Jpys",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "order_num":0,
+    "changeable":0,
+    "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737710777074/012403.jar",
+    "ext":"https://www.hkybqufgh.com"
+    },
+    {
     "key":"csp_UC",
     "name":"小米４Ｋ影视",
     "type":3,
@@ -1110,15 +1056,6 @@
     },
     "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
     },
-    /*{
-    "key":"厂长资源",
-    "name":"星标厂长影视",
-    "type":3,
-    "api":"csp_Czzy",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },*/
     {
     "key":"厂长弹幕",
     "name":"星标厂长影视",
@@ -1717,21 +1654,8 @@
     "quickSearch":1,
     "filterable":0,
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
-    //"jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/cili/bt0.json"
     },
-    /*
-    {
-    "key":"酷吧电影",
-    "name":"磁力酷吧电影",
-    //"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
-    "type":3,
-    "api":"csp_KubaCL",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
-    },*/
     {
     "key":"SeedHub",
     "name":"ＳＥ电影磁力",

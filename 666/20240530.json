@@ -176,14 +176,14 @@
     "ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=哆啦"
     },
     {
-    "key":"真心影视",
-    "name":"摸鱼真心影视",
-    "type":3,
-    "api":"csp_WebGZ",
-    "jar":"http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
+      "key": "真心影视",
+      "name": "摸鱼真心影视",
+      "type": 3,
+      "api": "csp_WebGZ",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
     "key":"快看影视",

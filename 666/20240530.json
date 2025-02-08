@@ -180,7 +180,7 @@
     "name":"摸鱼真心影视",
     "type":3,
     "api":"csp_WebGZ",
-    "jar":"http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
@@ -190,7 +190,7 @@
     "name":"摸鱼快看影视",
     "type":3,
     "api":"csp_Kuaikan",
-    "jar":"http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
     "searchable":1,
     "quickSearch":1,
     "filterable":1
@@ -1661,7 +1661,7 @@
     "name":"ＳＥ电影磁力",
     "type":3,
     "api":"csp_SeedHub",
-    "jar":"http://我不是.摸鱼儿.com/by/jar/Pizazz.php",
+    "jar":"http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
     "searchable":1,
     "quickSearch":1,
     "filterable":1

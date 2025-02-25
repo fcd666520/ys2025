@@ -1,22 +1,22 @@
-    {"spider":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    {"spider":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR/spider111.jar",
     "warningText":"请勿轻信视频中广告，谨防上当受骗，接口完全免费，请勿付费此免费接口。",
     "sites":[
     {
     "key":"應用商店",
     "name":"影视更新商店，请勿相信视频中广告",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2025/-/raw/master/jar/pg.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR/pg.jar",
     "api":"csp_Market",
     "searchable":0,
     "changeable":0,
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/market.json"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/market.json"
     },
     {
     "key":"drpy.js",
     "name":"主页豆瓣推荐",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/drpy.js",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/drpy.js",
     "searchable":1,
     "quickSearch":0,
     "changeable":0
@@ -25,7 +25,7 @@
     "key":"本地",
     "name":"本地文件视频",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_LocalFile"
     },
     {
@@ -36,7 +36,7 @@
     "changeable":0,
     "quickSearch":0,
     "filterable":1,
-    "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/聚影搜索.js"
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/聚影搜索.js"
     },
     {
     "key":"csp_KungFu404",
@@ -46,7 +46,7 @@
     "searchable":1,
     "filterable":0,
     "changeable":0,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/alibaba0.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//alibaba0.jar"
     },
     {
     "key":"网盘及弹幕配置",
@@ -70,7 +70,7 @@
     "type":"rect",
     "ratio":1
     },
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js//网盘配置.json"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js//网盘配置.json"
     },
     {
     "key":"csp_YGP",
@@ -97,24 +97,24 @@
     "name":"移动云盘影视",
     "type":3,
     "api":"csp_Panta",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/pg.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//pg.jar",
     "changeable":2,
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
     "timeout":60
     },
     {
     "key":"玩偶影视",
     "name":"星标阿里影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "type":3,
     "api":"csp_XYQHikerAL",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/玩偶影视.json"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/玩偶影视.json"
     },
     {
     "key":"阿里合集",
@@ -126,7 +126,7 @@
     "filterable":0,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","share":""},
     "style":{"type":"list"},
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar"
     },
     {
     "key":"原创",
@@ -565,7 +565,7 @@
     "key":"天天弹幕",
     "name":"潇潇天天弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_TianTian",
     "searchable":1,
     "quickSearch":1,
@@ -579,7 +579,7 @@
     "key":"热播弹幕",
     "name":"潇潇热播弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_TianTian",
     "searchable":1,
     "quickSearch":1,
@@ -593,7 +593,7 @@
     "key":"浪酷弹幕",
     "name":"潇潇浪酷弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_TianTian",
     "searchable":1,
     "quickSearch":1,
@@ -607,7 +607,7 @@
     "key":"糯米弹幕",
     "name":"潇潇糯米弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_Nmys",
     "searchable":1,
     "quickSearch":1,
@@ -620,7 +620,7 @@
     "key":"文才弹幕",
     "name":"潇潇文才弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_Jpys",
     "searchable":1,
     "quickSearch":1,
@@ -633,7 +633,7 @@
     "key":"立播弹幕",
     "name":"潇潇立播弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_Libvio",
     "searchable":1,
     "filterable":1,
@@ -650,7 +650,7 @@
     "key":"天天弹幕",
     "name":"潇潇天天弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_TianTian",
     "searchable":1,
     "quickSearch":1,
@@ -664,7 +664,7 @@
     "key":"夸克木偶弹幕",
     "name":"潇潇木偶弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_Wobg",
     "quickSearch":1,
     "changeable":1,
@@ -681,7 +681,7 @@
     "key":"夸克虎斑弹幕",
     "name":"潇潇虎斑弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_Wobg",
     "quickSearch":1,
     "changeable":1,
@@ -698,7 +698,7 @@
     "key":"夸克下饭弹幕",
     "name":"潇潇下饭弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_Wobg",
     "quickSearch":1,
     "changeable":1,
@@ -715,7 +715,7 @@
     "key":"夸克白嫖弹幕",
     "name":"潇潇白嫖弹幕",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_Wobg",
     "quickSearch":1,
     "changeable":1,
@@ -741,7 +741,7 @@
     "key":"酷影视",
     "name":"潇洒酷影影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_AppYsV2",
     "searchable":1,
     "quickSearch":1,
@@ -751,7 +751,7 @@
     {
     "key":"天天影视",
     "name":"潇洒天天影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "type":3,
     "api":"csp_AppTT",
     "searchable":1,
@@ -761,7 +761,7 @@
     {
     "key":"热播影视",
     "name":"潇洒热播影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "type":3,
     "api":"csp_AppRB",
     "searchable":1,
@@ -771,7 +771,7 @@
     {
     "key":"洽洽影视",
     "name":"潇洒洽洽影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "type":3,
     "api":"csp_AppGZ",
     "searchable":1,
@@ -782,7 +782,7 @@
     "key":"饺子影视",
     "name":"潇洒饺子影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_Jiaozi",
     "searchable":1,
     "quickSearch":1,
@@ -792,7 +792,7 @@
     "key":"金牌影视",
     "name":"潇洒金牌影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_WebJP",
     "searchable":1,
     "quickSearch":1,
@@ -801,7 +801,7 @@
     {
     "key":"真心影视",
     "name":"潇洒真心影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "type":3,
     "api":"csp_WebGZ",
     "searchable":1,
@@ -811,7 +811,7 @@
     {
     "key":"机器人",
     "name":"潇洒机器影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "type":3,
     "api":"csp_Ikanbot",
     "searchable":1,
@@ -821,7 +821,7 @@
     {
     "key":"奇趣影视",
     "name":"潇洒奇趣影视",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "type":3,
     "api":"csp_XYQHiker",
     "searchable":1,
@@ -833,7 +833,7 @@
     "key":"素白白",
     "name":"潇洒素白影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_Subaibai",
     "searchable":1,
     "quickSearch":1,
@@ -843,7 +843,7 @@
     "key":"小苹果",
     "name":"潇洒苹果影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_Xpg",
     "searchable":1,
     "quickSearch":1,
@@ -853,7 +853,7 @@
     "key":"电影牛",
     "name":"潇洒影牛影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"csp_XYQHiker",
     "searchable":1,
     "quickSearch":1,
@@ -864,7 +864,7 @@
     "key":"魔力高清",
     "name":"潇洒魔力影视",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js",
     "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/魔力高清.js"
     },
@@ -872,7 +872,7 @@
     "key":"动画片",
     "name":"潇洒动画动漫",
     "type":3,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "api":"https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/drpy2.min.js",
     "ext":"https://raw.githubusercontent.com/PizazzGY/TVBox/refs/heads/main/JS/动画片大全.js"
     },
@@ -1071,7 +1071,7 @@
     "ext":{
     "danmu":true
     },
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar"
     },
     {
     "key":"玩偶弹幕",
@@ -1088,7 +1088,7 @@
     "wogg":true,
     "danmu":true
     },
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar"
     },
     {
     "key":"哔嘀弹幕",
@@ -1102,7 +1102,7 @@
     "site":"https://www.xlys01.com",
     "danmu":true
     },
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar"
     },
     {
     "key":"厂长弹幕",
@@ -1114,7 +1114,7 @@
     "filterable":1,
     "ext":{"danmu":true},
     "timeout":25,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar"
     },
     {
     "key":"文才弹幕",
@@ -1127,7 +1127,7 @@
     "ext":{
     "danmu":true
     },
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar"
     },
     {
     "key":"可可",
@@ -1193,21 +1193,21 @@
     "name":"星标五八动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/58动漫.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/58动漫.js"
     },
     {
     "key":"drpy_js_哔哩影视",
     "name":"星标哔哩动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/哔哩影视.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/哔哩影视.js"
     },
     {
     "key":"drpy_js_奇米动漫",
     "name":"星标奇米动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/奇米动漫.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/奇米动漫.js"
     },
     {
     "key":"drpy_js_动漫岛",
@@ -1221,14 +1221,14 @@
     "name":"星标爱弹动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/爱弹幕.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/爱弹幕.js"
     },
     {
     "key":"drpy_js_路漫漫",
     "name":"星标漫漫动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/路漫漫.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/路漫漫.js"
     },
     {
     "key":"樱花",
@@ -1249,7 +1249,7 @@
     "name":"星标拿铁动漫",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/NT动漫.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/NT动漫.js"
     },
     {
     "key":"csp_Dm84",
@@ -1272,28 +1272,28 @@
     "name":"芒果官方解析",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/芒果.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/芒果.js"
     },
     {
     "key":"奇珍异兽",
     "name":"奇异官方解析",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/奇珍异兽.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/奇珍异兽.js"
     },
     {
     "key":"优酷",
     "name":"优酷官方解析",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/优酷.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/优酷.js"
     },
     {
     "key":"腾讯",
     "name":"腾讯官方解析",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy2.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/腾讯.js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/腾讯.js"
     },
     {
     "key":"csp_SP33",
@@ -1593,7 +1593,7 @@
     "name":"新六４Ｋ磁力",
     "type":3,
     "api":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/lib/drpy4.min.js",
-    "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/js/6V[新版].js"
+    "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/6V[新版].js"
     },
     {
     "key":"csp_XYQHiker_电影港磁力",
@@ -1637,13 +1637,13 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar",
     "ext":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/cili/yinfans.json"
     },
     {
     "key":"New6v",
     "name":"６Ｖ影视磁力",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider.jar",
     "type":3,
     "api":"csp_New6v",
     "searchable":1,
@@ -1654,7 +1654,7 @@
     {
     "key":"美剧迷",
     "name":"磁力美剧搜索",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider.jar",
     "type":3,
     "api":"csp_MeijuMi",
     "searchable":1,
@@ -1664,7 +1664,7 @@
     {
     "key":"迅雷吧",
     "name":"磁力迅雷搜索",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider.jar",
     "type":3,
     "api":"csp_Xunlei8",
     "searchable":1,
@@ -1674,7 +1674,7 @@
     {
     "key":"Mp4电影",
     "name":"磁力Ｍ４搜索",
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider.jar",
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider.jar",
     "type":3,
     "api":"csp_Mp4Mov",
     "searchable":1,
@@ -2055,7 +2055,7 @@
     "changeable":1,
     "ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt",
     "danmu":true},
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar"
     },
     {
     "key":"夸克多多弹幕",
@@ -2071,7 +2071,7 @@
     "site":"https://tv.yydsys.top",
     "danmu":true
     },
-    "jar":"https://gitlab.com/fcd666520/2024looo/-/raw/master/666/JAR/spider111.jar"
+    "jar":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR//spider111.jar"
     },
     {
     "key":"趣盘夸克",

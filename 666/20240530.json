@@ -15,7 +15,7 @@
     "key":"drpy.js",
     "name":"主页豆瓣推荐",
     "type":3,
-    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/drpy4.min.js",
+    "api":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/lib/drpy4.min.js",
     "ext":"https://ghproxy.net/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/js/drpy.js",
     "searchable":1,
     "quickSearch":0,

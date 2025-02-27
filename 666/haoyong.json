@@ -130,10 +130,9 @@
     },
     {
     "key":"原创",
-    "name":"急速原创影视",
+    "name":"☀原创┃不卡",
     "type":3,
     "api":"csp_YCyz",
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/fan.txt",
     "timeout":15,
     "playerType":1,
     "searchable":1,

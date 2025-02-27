@@ -130,7 +130,7 @@
     },
     {
     "key":"原创",
-    "name":"☀原创┃不卡",
+    "name":"饭硬原创不卡",
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/fan.txt",
     "type":3,
     "api": "csp_YCyzGuard",
@@ -142,14 +142,14 @@
     },
     {
     "key":"木星",
-    "name":"急速木星影视",
-    "type":3,
-    "api":"csp_AppSx",
+    "name":"饭硬木星影视",
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/fan.txt",
+    "type":3,
+    "api": "csp_AppSxGuard",
     "searchable":1,
     "quickSearch":1,
     "changeable":1,
-    "ext":"FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK"
+    "ext": "FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="
     },
     {
     "key":"直播转点播",

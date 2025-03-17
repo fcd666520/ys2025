@@ -141,43 +141,8 @@
     "changeable":1
     },
     {
-    "key":"木星",
-    "name":"饭硬木星影视",
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jar/fan.txt",
-    "type":3,
-    "api": "csp_AppSxGuard",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext": "FbjPcVZY48PN/RIZ5QqOrsplZNERApoHSmxZ77D7wAtcAsqZuXTQzUHW+quzHG+7cXaG3SBwzihuA2NlCJpscUJASIGSmRiXKW5NhipHle83SfO6IA=="
-    },
-    {
-    "key":"直播转点播",
-    "name":"摸鱼ＩＰＶ６",
-    "type":3,
-    "api":"http://我不是.摸鱼儿.com/api/moyulive.js",
-    "searchable":0,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
-    },
-    {
-    "key":"哆啦新番社",
-    "name":"摸鱼哆啦动漫",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR/PizazzGY.php",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "style":{
-    "type":"list"
-    },
-    "ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=哆啦"
-    },
-    {
     "key":"真心影视",
-    "name":"摸鱼真心影视",
+    "name":"嘿呀真心影视",
     "type":3,
     "api":"csp_WebGZ",
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR/PizazzGY.php",
@@ -187,7 +152,7 @@
     },
     {
     "key":"快看影视",
-    "name":"摸鱼快看影视",
+    "name":"嘿呀快看影视",
     "type":3,
     "api":"csp_Kuaikan",
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR/PizazzGY.php",
@@ -197,7 +162,7 @@
     },
     {
     "key":"摸鱼瓜子",
-    "name":"摸鱼瓜子影视",
+    "name":"嘿呀瓜子影视",
     "type":3,
     "api":"https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
     "filterable":1,
@@ -207,7 +172,7 @@
     },
     {
     "key":"耐看影视",
-    "name":"摸鱼耐看影视",
+    "name":"嘿呀耐看影视",
     "type":3,
     "api":"csp_WebNK",
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR/PizazzGY.php",
@@ -217,16 +182,8 @@
     "ext":"w7TClcONw6LDrsKYwoXCosKcwpvCrcKcw6HDrsKnwqDCo2rCqMKiw7HDsMOxYcKewpvClMOvw5fCqMOmw59VXFLCpMOiw6PCnMKzwpzCjuWGtemEmOaPleWRnMKf5Yem5L6Q5ZGxbeW+oeintui1tOa8ieetjMOXwpvDtw=="
     },
     {
-    "key":"面包影视",
-    "name":"摸鱼面包影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "jar":"http://我不是.摸鱼儿.com/by/jar/PizazzGY.php",
-    "ext":"http://我不是.摸鱼儿.com/api/moyu.php?file=面包"
-    },
-    {
     "key":"糖果",
-    "name":"摸鱼糖果影视",
+    "name":"嘿呀糖果影视",
     "type":3,
     "api":"csp_Shark",
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR/PizazzGY.php",
@@ -235,7 +192,7 @@
     },
     {
     "key":"雨滴",
-    "name":"摸鱼雨滴影视",
+    "name":"嘿呀雨滴影视",
     "type":3,
     "api":"csp_Xdai",
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR/PizazzGY.php",
@@ -244,7 +201,7 @@
     },
     {
     "key":"柳月影视",
-    "name":"摸鱼柳月影视",
+    "name":"嘿呀柳月影视",
     "type":3,
     "api":"csp_AppGetApp",
     "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/fcd666520/ys2025/refs/heads/master/666/JAR/PizazzGY.php",
@@ -266,18 +223,6 @@
     "jar":"http://m1839732.ca.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
     },
     {
-    "key":"sbys",
-    "name":"喵喵素白影视",
-    "type":3,
-    "api":"csp_SuBaiBai",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "playerType":2,
-    "ext":"https://www.subaibaiys.com/",
-    "jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
-    },
-    {
     "key":"Wwys",
     "name":"喵喵汪汪影视",
     "type":3,
@@ -290,17 +235,6 @@
     "jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
     },
     {
-    "key":"bdys",
-    "name":"喵喵哔嘀影视",
-    "type":3,
-    "api":"csp_Xlys",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "playerType":2,
-    "jar":"http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
-    },
-    {
     "key":"Qxys",
     "name":"喵喵七新影视",
     "type":3,
@@ -309,16 +243,6 @@
     "quickSearch":1,
     "filterable":1,
     "ext":"http://www.meowtv.cn/xp/meow.php?file=qxys"
-    },
-    {
-    "key":"Hhys",
-    "name":"喵喵黑狐影视",
-    "type":3,
-    "api":"csp_XBPQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://www.meowtv.cn/xp/meow.php?file=hhys"
     },
     {
     "key":"hipy_js_烧火影视[优]",
